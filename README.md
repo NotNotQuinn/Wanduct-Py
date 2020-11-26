@@ -1,2 +1,2 @@
-# Wanduct-py
+# Wanduct-Py
 Remaking Wanduct-JS in python :)
