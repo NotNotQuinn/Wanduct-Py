@@ -1,0 +1,712 @@
+11/29/2020 01:46:51 AM Raw: :tmi.twitch.tv 001 wanductbot :Welcome, GLHF!
+Prefix: tmi.twitch.tv
+Command: 001
+Args: ['wanductbot', 'Welcome, GLHF!']
+Tags: {}
+11/29/2020 01:46:51 AM Raw: :tmi.twitch.tv 002 wanductbot :Your host is tmi.twitch.tv
+Prefix: tmi.twitch.tv
+Command: 002
+Args: ['wanductbot', 'Your host is tmi.twitch.tv']
+Tags: {}
+11/29/2020 01:46:51 AM Raw: :tmi.twitch.tv 003 wanductbot :This server is rather new
+Prefix: tmi.twitch.tv
+Command: 003
+Args: ['wanductbot', 'This server is rather new']
+Tags: {}
+11/29/2020 01:46:51 AM Raw: :tmi.twitch.tv 004 wanductbot :-
+Prefix: tmi.twitch.tv
+Command: 004
+Args: ['wanductbot', '-']
+Tags: {}
+11/29/2020 01:46:51 AM Raw: :tmi.twitch.tv 375 wanductbot :-
+Prefix: tmi.twitch.tv
+Command: 375
+Args: ['wanductbot', '-']
+Tags: {}
+11/29/2020 01:46:51 AM Raw: :tmi.twitch.tv 372 wanductbot :You are in a maze of twisty passages, all alike.
+Prefix: tmi.twitch.tv
+Command: 372
+Args: ['wanductbot', 'You are in a maze of twisty passages, all alike.']
+Tags: {}
+11/29/2020 01:46:51 AM Raw: :tmi.twitch.tv 376 wanductbot :>
+Prefix: tmi.twitch.tv
+Command: 376
+Args: ['wanductbot', '>']
+Tags: {}
+11/29/2020 01:46:51 AM Raw: :wanductbot!wanductbot@wanductbot.tmi.twitch.tv JOIN #michaelreeves
+Prefix: wanductbot!wanductbot@wanductbot.tmi.twitch.tv
+Command: JOIN
+Args: ['#michaelreeves']
+Tags: {}
+11/29/2020 01:46:51 AM Raw: :tmi.twitch.tv CAP * ACK :twitch.tv/tags
+Prefix: tmi.twitch.tv
+Command: CAP
+Args: ['*', 'ACK', 'twitch.tv/tags']
+Tags: {}
+11/29/2020 01:46:51 AM Raw: :wanductbot.tmi.twitch.tv 353 wanductbot = #michaelreeves :wanductbot
+Prefix: wanductbot.tmi.twitch.tv
+Command: 353
+Args: ['wanductbot', '=', '#michaelreeves', 'wanductbot']
+Tags: {}
+11/29/2020 01:46:51 AM Raw: :wanductbot.tmi.twitch.tv 366 wanductbot #michaelreeves :End of /NAMES list
+Prefix: wanductbot.tmi.twitch.tv
+Command: 366
+Args: ['wanductbot', '#michaelreeves', 'End of /NAMES list']
+Tags: {}
+11/29/2020 01:46:52 AM before: @badge-info=subscriber/6;badges=subscriber/6,glitchcon2020/1;color=#5F9EA0;display-name=JustN4sh;emotes=;flags=;id=052e843a-a80c-430e-8a27-5bb10f1e5d1c;mod=0;room-id=469790580;subscriber=1;tmi-sent-ts=1606636014404;turbo=0;user-id=49825771;user-type= :justn4sh!justn4sh@justn4sh.tmi.twitch.tv PRIVMSG #michaelreeves :Do it LuL
+11/29/2020 01:46:52 AM after : :justn4sh!justn4sh@justn4sh.tmi.twitch.tv PRIVMSG #michaelreeves :Do it LuL
+11/29/2020 01:46:52 AM Raw: @badge-info=subscriber/6;badges=subscriber/6,glitchcon2020/1;color=#5F9EA0;display-name=JustN4sh;emotes=;flags=;id=052e843a-a80c-430e-8a27-5bb10f1e5d1c;mod=0;room-id=469790580;subscriber=1;tmi-sent-ts=1606636014404;turbo=0;user-id=49825771;user-type= :justn4sh!justn4sh@justn4sh.tmi.twitch.tv PRIVMSG #michaelreeves :Do it LuL
+Prefix: justn4sh!justn4sh@justn4sh.tmi.twitch.tv
+Command: PRIVMSG
+Args: ['#michaelreeves', 'Do it LuL']
+Tags: {'badge-info': 'subscriber/6', 'badges': 'subscriber/6,glitchcon2020/1', 'color': '#5F9EA0', 'display-name': 'JustN4sh', 'emotes': True, 'flags': True, 'id': '052e843a-a80c-430e-8a27-5bb10f1e5d1c', 'mod': '0', 'room-id': '469790580', 'subscriber': '1', 'tmi-sent-ts': '1606636014404', 'turbo': '0', 'user-id': '49825771', 'user-type': True}
+11/29/2020 01:46:56 AM before: @badge-info=subscriber/6;badges=subscriber/6,glitchcon2020/1;color=#5F9EA0;display-name=JustN4sh;emote-only=1;emotes=425618:0-2;flags=;id=1dcffb10-5f77-42a6-9dc9-fe2a88f18461;mod=0;room-id=469790580;subscriber=1;tmi-sent-ts=1606636017716;turbo=0;user-id=49825771;user-type= :justn4sh!justn4sh@justn4sh.tmi.twitch.tv PRIVMSG #michaelreeves :LUL
+11/29/2020 01:46:56 AM after : :justn4sh!justn4sh@justn4sh.tmi.twitch.tv PRIVMSG #michaelreeves :LUL
+11/29/2020 01:46:56 AM Raw: @badge-info=subscriber/6;badges=subscriber/6,glitchcon2020/1;color=#5F9EA0;display-name=JustN4sh;emote-only=1;emotes=425618:0-2;flags=;id=1dcffb10-5f77-42a6-9dc9-fe2a88f18461;mod=0;room-id=469790580;subscriber=1;tmi-sent-ts=1606636017716;turbo=0;user-id=49825771;user-type= :justn4sh!justn4sh@justn4sh.tmi.twitch.tv PRIVMSG #michaelreeves :LUL
+Prefix: justn4sh!justn4sh@justn4sh.tmi.twitch.tv
+Command: PRIVMSG
+Args: ['#michaelreeves', 'LUL']
+Tags: {'badge-info': 'subscriber/6', 'badges': 'subscriber/6,glitchcon2020/1', 'color': '#5F9EA0', 'display-name': 'JustN4sh', 'emote-only': '1', 'emotes': '425618:0-2', 'flags': True, 'id': '1dcffb10-5f77-42a6-9dc9-fe2a88f18461', 'mod': '0', 'room-id': '469790580', 'subscriber': '1', 'tmi-sent-ts': '1606636017716', 'turbo': '0', 'user-id': '49825771', 'user-type': True}
+11/29/2020 01:47:23 AM before: @badge-info=subscriber/6;badges=moderator/1,subscriber/6,twitchcon2018/1;color=#00CC96;display-name=Tanlere;emotes=;flags=;id=c0a6a694-d830-49ae-a3ea-2c539098abe9;mod=1;room-id=469790580;subscriber=1;tmi-sent-ts=1606636045018;turbo=0;user-id=115292820;user-type=mod :tanlere!tanlere@tanlere.tmi.twitch.tv PRIVMSG #michaelreeves :fart
+11/29/2020 01:47:23 AM after : :tanlere!tanlere@tanlere.tmi.twitch.tv PRIVMSG #michaelreeves :fart
+11/29/2020 01:47:23 AM Raw: @badge-info=subscriber/6;badges=moderator/1,subscriber/6,twitchcon2018/1;color=#00CC96;display-name=Tanlere;emotes=;flags=;id=c0a6a694-d830-49ae-a3ea-2c539098abe9;mod=1;room-id=469790580;subscriber=1;tmi-sent-ts=1606636045018;turbo=0;user-id=115292820;user-type=mod :tanlere!tanlere@tanlere.tmi.twitch.tv PRIVMSG #michaelreeves :fart
+Prefix: tanlere!tanlere@tanlere.tmi.twitch.tv
+Command: PRIVMSG
+Args: ['#michaelreeves', 'fart']
+Tags: {'badge-info': 'subscriber/6', 'badges': 'moderator/1,subscriber/6,twitchcon2018/1', 'color': '#00CC96', 'display-name': 'Tanlere', 'emotes': True, 'flags': True, 'id': 'c0a6a694-d830-49ae-a3ea-2c539098abe9', 'mod': '1', 'room-id': '469790580', 'subscriber': '1', 'tmi-sent-ts': '1606636045018', 'turbo': '0', 'user-id': '115292820', 'user-type': 'mod'}
+11/29/2020 01:47:24 AM before: @badge-info=subscriber/6;badges=moderator/1,subscriber/6,twitchcon2018/1;color=#00CC96;display-name=Tanlere;emotes=;flags=;id=91850b45-1872-41b5-95a8-cb32d736383d;mod=1;room-id=469790580;subscriber=1;tmi-sent-ts=1606636046082;turbo=0;user-id=115292820;user-type=mod :tanlere!tanlere@tanlere.tmi.twitch.tv PRIVMSG #michaelreeves :poop
+11/29/2020 01:47:24 AM after : :tanlere!tanlere@tanlere.tmi.twitch.tv PRIVMSG #michaelreeves :poop
+11/29/2020 01:47:24 AM Raw: @badge-info=subscriber/6;badges=moderator/1,subscriber/6,twitchcon2018/1;color=#00CC96;display-name=Tanlere;emotes=;flags=;id=91850b45-1872-41b5-95a8-cb32d736383d;mod=1;room-id=469790580;subscriber=1;tmi-sent-ts=1606636046082;turbo=0;user-id=115292820;user-type=mod :tanlere!tanlere@tanlere.tmi.twitch.tv PRIVMSG #michaelreeves :poop
+Prefix: tanlere!tanlere@tanlere.tmi.twitch.tv
+Command: PRIVMSG
+Args: ['#michaelreeves', 'poop']
+Tags: {'badge-info': 'subscriber/6', 'badges': 'moderator/1,subscriber/6,twitchcon2018/1', 'color': '#00CC96', 'display-name': 'Tanlere', 'emotes': True, 'flags': True, 'id': '91850b45-1872-41b5-95a8-cb32d736383d', 'mod': '1', 'room-id': '469790580', 'subscriber': '1', 'tmi-sent-ts': '1606636046082', 'turbo': '0', 'user-id': '115292820', 'user-type': 'mod'}
+11/29/2020 01:47:37 AM before: @badge-info=;badges=;color=;display-name=kahshshe;emotes=;flags=;id=7f89b46c-95a3-40ec-b475-6ea5691c8566;mod=0;room-id=469790580;subscriber=0;tmi-sent-ts=1606636059096;turbo=0;user-id=536117345;user-type= :kahshshe!kahshshe@kahshshe.tmi.twitch.tv PRIVMSG #michaelreeves :He should go live
+11/29/2020 01:47:37 AM after : :kahshshe!kahshshe@kahshshe.tmi.twitch.tv PRIVMSG #michaelreeves :He should go live
+11/29/2020 01:47:37 AM Raw: @badge-info=;badges=;color=;display-name=kahshshe;emotes=;flags=;id=7f89b46c-95a3-40ec-b475-6ea5691c8566;mod=0;room-id=469790580;subscriber=0;tmi-sent-ts=1606636059096;turbo=0;user-id=536117345;user-type= :kahshshe!kahshshe@kahshshe.tmi.twitch.tv PRIVMSG #michaelreeves :He should go live
+Prefix: kahshshe!kahshshe@kahshshe.tmi.twitch.tv
+Command: PRIVMSG
+Args: ['#michaelreeves', 'He should go live']
+Tags: {'badge-info': True, 'badges': True, 'color': True, 'display-name': 'kahshshe', 'emotes': True, 'flags': True, 'id': '7f89b46c-95a3-40ec-b475-6ea5691c8566', 'mod': '0', 'room-id': '469790580', 'subscriber': '0', 'tmi-sent-ts': '1606636059096', 'turbo': '0', 'user-id': '536117345', 'user-type': True}
+11/29/2020 01:47:43 AM before: @badge-info=subscriber/6;badges=moderator/1,subscriber/6,twitchcon2018/1;color=#00CC96;display-name=Tanlere;emotes=;flags=;id=22d5751b-8c36-40f5-9836-e4ab8ffd9b66;mod=1;room-id=469790580;subscriber=1;tmi-sent-ts=1606636065199;turbo=0;user-id=115292820;user-type=mod :tanlere!tanlere@tanlere.tmi.twitch.tv PRIVMSG #michaelreeves :but will he
+11/29/2020 01:47:43 AM after : :tanlere!tanlere@tanlere.tmi.twitch.tv PRIVMSG #michaelreeves :but will he
+11/29/2020 01:47:43 AM Raw: @badge-info=subscriber/6;badges=moderator/1,subscriber/6,twitchcon2018/1;color=#00CC96;display-name=Tanlere;emotes=;flags=;id=22d5751b-8c36-40f5-9836-e4ab8ffd9b66;mod=1;room-id=469790580;subscriber=1;tmi-sent-ts=1606636065199;turbo=0;user-id=115292820;user-type=mod :tanlere!tanlere@tanlere.tmi.twitch.tv PRIVMSG #michaelreeves :but will he
+Prefix: tanlere!tanlere@tanlere.tmi.twitch.tv
+Command: PRIVMSG
+Args: ['#michaelreeves', 'but will he']
+Tags: {'badge-info': 'subscriber/6', 'badges': 'moderator/1,subscriber/6,twitchcon2018/1', 'color': '#00CC96', 'display-name': 'Tanlere', 'emotes': True, 'flags': True, 'id': '22d5751b-8c36-40f5-9836-e4ab8ffd9b66', 'mod': '1', 'room-id': '469790580', 'subscriber': '1', 'tmi-sent-ts': '1606636065199', 'turbo': '0', 'user-id': '115292820', 'user-type': 'mod'}
+11/29/2020 01:47:53 AM before: @badge-info=;badges=;color=;display-name=kahshshe;emotes=;flags=;id=7a91e4a2-a269-4148-b4ff-48b10326a967;mod=0;room-id=469790580;subscriber=0;tmi-sent-ts=1606636075143;turbo=0;user-id=536117345;user-type= :kahshshe!kahshshe@kahshshe.tmi.twitch.tv PRIVMSG #michaelreeves :Probably not
+11/29/2020 01:47:53 AM after : :kahshshe!kahshshe@kahshshe.tmi.twitch.tv PRIVMSG #michaelreeves :Probably not
+11/29/2020 01:47:53 AM Raw: @badge-info=;badges=;color=;display-name=kahshshe;emotes=;flags=;id=7a91e4a2-a269-4148-b4ff-48b10326a967;mod=0;room-id=469790580;subscriber=0;tmi-sent-ts=1606636075143;turbo=0;user-id=536117345;user-type= :kahshshe!kahshshe@kahshshe.tmi.twitch.tv PRIVMSG #michaelreeves :Probably not
+Prefix: kahshshe!kahshshe@kahshshe.tmi.twitch.tv
+Command: PRIVMSG
+Args: ['#michaelreeves', 'Probably not']
+Tags: {'badge-info': True, 'badges': True, 'color': True, 'display-name': 'kahshshe', 'emotes': True, 'flags': True, 'id': '7a91e4a2-a269-4148-b4ff-48b10326a967', 'mod': '0', 'room-id': '469790580', 'subscriber': '0', 'tmi-sent-ts': '1606636075143', 'turbo': '0', 'user-id': '536117345', 'user-type': True}
+11/29/2020 01:48:06 AM before: @badge-info=subscriber/6;badges=subscriber/6,glitchcon2020/1;color=#FF69B4;display-name=Mr_Rixa;emotes=;flags=;id=36f90703-18d9-499a-a13d-458d6a67e6f7;mod=0;room-id=469790580;subscriber=1;tmi-sent-ts=1606636088601;turbo=0;user-id=36632870;user-type= :mr_rixa!mr_rixa@mr_rixa.tmi.twitch.tv PRIVMSG #michaelreeves :dun, dun, duuuu~
+11/29/2020 01:48:06 AM after : :mr_rixa!mr_rixa@mr_rixa.tmi.twitch.tv PRIVMSG #michaelreeves :dun, dun, duuuu~
+11/29/2020 01:48:06 AM Raw: @badge-info=subscriber/6;badges=subscriber/6,glitchcon2020/1;color=#FF69B4;display-name=Mr_Rixa;emotes=;flags=;id=36f90703-18d9-499a-a13d-458d6a67e6f7;mod=0;room-id=469790580;subscriber=1;tmi-sent-ts=1606636088601;turbo=0;user-id=36632870;user-type= :mr_rixa!mr_rixa@mr_rixa.tmi.twitch.tv PRIVMSG #michaelreeves :dun, dun, duuuu~
+Prefix: mr_rixa!mr_rixa@mr_rixa.tmi.twitch.tv
+Command: PRIVMSG
+Args: ['#michaelreeves', 'dun, dun, duuuu~']
+Tags: {'badge-info': 'subscriber/6', 'badges': 'subscriber/6,glitchcon2020/1', 'color': '#FF69B4', 'display-name': 'Mr_Rixa', 'emotes': True, 'flags': True, 'id': '36f90703-18d9-499a-a13d-458d6a67e6f7', 'mod': '0', 'room-id': '469790580', 'subscriber': '1', 'tmi-sent-ts': '1606636088601', 'turbo': '0', 'user-id': '36632870', 'user-type': True}
+11/29/2020 01:48:42 AM before: @badge-info=subscriber/6;badges=subscriber/6,glitchcon2020/1;color=#FF69B4;display-name=CODwaffles01;emotes=;flags=;id=6cc715fe-dead-4660-a66a-12395be212f6;mod=0;room-id=469790580;subscriber=1;tmi-sent-ts=1606636123825;turbo=0;user-id=460201537;user-type= :codwaffles01!codwaffles01@codwaffles01.tmi.twitch.tv PRIVMSG #michaelreeves :FeelsDankMan
+11/29/2020 01:48:42 AM after : :codwaffles01!codwaffles01@codwaffles01.tmi.twitch.tv PRIVMSG #michaelreeves :FeelsDankMan
+11/29/2020 01:48:42 AM Raw: @badge-info=subscriber/6;badges=subscriber/6,glitchcon2020/1;color=#FF69B4;display-name=CODwaffles01;emotes=;flags=;id=6cc715fe-dead-4660-a66a-12395be212f6;mod=0;room-id=469790580;subscriber=1;tmi-sent-ts=1606636123825;turbo=0;user-id=460201537;user-type= :codwaffles01!codwaffles01@codwaffles01.tmi.twitch.tv PRIVMSG #michaelreeves :FeelsDankMan
+Prefix: codwaffles01!codwaffles01@codwaffles01.tmi.twitch.tv
+Command: PRIVMSG
+Args: ['#michaelreeves', 'FeelsDankMan']
+Tags: {'badge-info': 'subscriber/6', 'badges': 'subscriber/6,glitchcon2020/1', 'color': '#FF69B4', 'display-name': 'CODwaffles01', 'emotes': True, 'flags': True, 'id': '6cc715fe-dead-4660-a66a-12395be212f6', 'mod': '0', 'room-id': '469790580', 'subscriber': '1', 'tmi-sent-ts': '1606636123825', 'turbo': '0', 'user-id': '460201537', 'user-type': True}
+11/29/2020 01:48:54 AM before: @badge-info=subscriber/6;badges=subscriber/6,bits/50000;color=#7F1616;display-name=jeffboys123;emotes=;flags=;id=d3653887-d257-49d3-8d65-9a7c830f351c;mod=0;room-id=469790580;subscriber=1;tmi-sent-ts=1606636135767;turbo=0;user-id=125906038;user-type= :jeffboys123!jeffboys123@jeffboys123.tmi.twitch.tv PRIVMSG #michaelreeves :FeelsDankMan
+11/29/2020 01:48:54 AM after : :jeffboys123!jeffboys123@jeffboys123.tmi.twitch.tv PRIVMSG #michaelreeves :FeelsDankMan
+11/29/2020 01:48:54 AM Raw: @badge-info=subscriber/6;badges=subscriber/6,bits/50000;color=#7F1616;display-name=jeffboys123;emotes=;flags=;id=d3653887-d257-49d3-8d65-9a7c830f351c;mod=0;room-id=469790580;subscriber=1;tmi-sent-ts=1606636135767;turbo=0;user-id=125906038;user-type= :jeffboys123!jeffboys123@jeffboys123.tmi.twitch.tv PRIVMSG #michaelreeves :FeelsDankMan
+Prefix: jeffboys123!jeffboys123@jeffboys123.tmi.twitch.tv
+Command: PRIVMSG
+Args: ['#michaelreeves', 'FeelsDankMan']
+Tags: {'badge-info': 'subscriber/6', 'badges': 'subscriber/6,bits/50000', 'color': '#7F1616', 'display-name': 'jeffboys123', 'emotes': True, 'flags': True, 'id': 'd3653887-d257-49d3-8d65-9a7c830f351c', 'mod': '0', 'room-id': '469790580', 'subscriber': '1', 'tmi-sent-ts': '1606636135767', 'turbo': '0', 'user-id': '125906038', 'user-type': True}
+11/29/2020 01:49:02 AM before: @badge-info=;badges=;color=;display-name=kahshshe;emotes=;flags=;id=0f14c466-18e7-41a7-9f90-b0d6191fa855;mod=0;room-id=469790580;subscriber=0;tmi-sent-ts=1606636144412;turbo=0;user-id=536117345;user-type= :kahshshe!kahshshe@kahshshe.tmi.twitch.tv PRIVMSG #michaelreeves :I was kinda hoping for a stream because he always cheers me up and I’m like really sad right now
+11/29/2020 01:49:02 AM after : :kahshshe!kahshshe@kahshshe.tmi.twitch.tv PRIVMSG #michaelreeves :I was kinda hoping for a stream because he always cheers me up and I’m like really sad right now
+11/29/2020 01:49:02 AM Raw: @badge-info=;badges=;color=;display-name=kahshshe;emotes=;flags=;id=0f14c466-18e7-41a7-9f90-b0d6191fa855;mod=0;room-id=469790580;subscriber=0;tmi-sent-ts=1606636144412;turbo=0;user-id=536117345;user-type= :kahshshe!kahshshe@kahshshe.tmi.twitch.tv PRIVMSG #michaelreeves :I was kinda hoping for a stream because he always cheers me up and I’m like really sad right now
+Prefix: kahshshe!kahshshe@kahshshe.tmi.twitch.tv
+Command: PRIVMSG
+Args: ['#michaelreeves', 'I was kinda hoping for a stream because he always cheers me up and I’m like really sad right now']
+Tags: {'badge-info': True, 'badges': True, 'color': True, 'display-name': 'kahshshe', 'emotes': True, 'flags': True, 'id': '0f14c466-18e7-41a7-9f90-b0d6191fa855', 'mod': '0', 'room-id': '469790580', 'subscriber': '0', 'tmi-sent-ts': '1606636144412', 'turbo': '0', 'user-id': '536117345', 'user-type': True}
+11/29/2020 01:49:14 AM before: @badge-info=subscriber/6;badges=subscriber/6,glitchcon2020/1;color=#FF69B4;display-name=CODwaffles01;emotes=;flags=;id=09acbb52-c809-4806-991e-9fa60e8c0173;mod=0;room-id=469790580;subscriber=1;tmi-sent-ts=1606636155691;turbo=0;user-id=460201537;user-type= :codwaffles01!codwaffles01@codwaffles01.tmi.twitch.tv PRIVMSG #michaelreeves :dankHug @kahshshe
+11/29/2020 01:49:14 AM after : :codwaffles01!codwaffles01@codwaffles01.tmi.twitch.tv PRIVMSG #michaelreeves :dankHug @kahshshe
+11/29/2020 01:49:14 AM Raw: @badge-info=subscriber/6;badges=subscriber/6,glitchcon2020/1;color=#FF69B4;display-name=CODwaffles01;emotes=;flags=;id=09acbb52-c809-4806-991e-9fa60e8c0173;mod=0;room-id=469790580;subscriber=1;tmi-sent-ts=1606636155691;turbo=0;user-id=460201537;user-type= :codwaffles01!codwaffles01@codwaffles01.tmi.twitch.tv PRIVMSG #michaelreeves :dankHug @kahshshe
+Prefix: codwaffles01!codwaffles01@codwaffles01.tmi.twitch.tv
+Command: PRIVMSG
+Args: ['#michaelreeves', 'dankHug @kahshshe']
+Tags: {'badge-info': 'subscriber/6', 'badges': 'subscriber/6,glitchcon2020/1', 'color': '#FF69B4', 'display-name': 'CODwaffles01', 'emotes': True, 'flags': True, 'id': '09acbb52-c809-4806-991e-9fa60e8c0173', 'mod': '0', 'room-id': '469790580', 'subscriber': '1', 'tmi-sent-ts': '1606636155691', 'turbo': '0', 'user-id': '460201537', 'user-type': True}
+11/29/2020 01:49:29 AM before: @badge-info=;badges=glitchcon2020/1;color=#2F93D2;display-name=JustADragonEatingTheMoon;emotes=;flags=;id=19d4750c-a4ce-4fc7-b9ee-95ecf96b6df6;mod=0;room-id=469790580;subscriber=0;tmi-sent-ts=1606636170593;turbo=0;user-id=136685914;user-type= :justadragoneatingthemoon!justadragoneatingthemoon@justadragoneatingthemoon.tmi.twitch.tv PRIVMSG #michaelreeves :im just going to rush around with a shotgun and smg this game
+11/29/2020 01:49:29 AM after : :justadragoneatingthemoon!justadragoneatingthemoon@justadragoneatingthemoon.tmi.twitch.tv PRIVMSG #michaelreeves :im just going to rush around with a shotgun and smg this game
+11/29/2020 01:49:29 AM Raw: @badge-info=;badges=glitchcon2020/1;color=#2F93D2;display-name=JustADragonEatingTheMoon;emotes=;flags=;id=19d4750c-a4ce-4fc7-b9ee-95ecf96b6df6;mod=0;room-id=469790580;subscriber=0;tmi-sent-ts=1606636170593;turbo=0;user-id=136685914;user-type= :justadragoneatingthemoon!justadragoneatingthemoon@justadragoneatingthemoon.tmi.twitch.tv PRIVMSG #michaelreeves :im just going to rush around with a shotgun and smg this game
+Prefix: justadragoneatingthemoon!justadragoneatingthemoon@justadragoneatingthemoon.tmi.twitch.tv
+Command: PRIVMSG
+Args: ['#michaelreeves', 'im just going to rush around with a shotgun and smg this game']
+Tags: {'badge-info': True, 'badges': 'glitchcon2020/1', 'color': '#2F93D2', 'display-name': 'JustADragonEatingTheMoon', 'emotes': True, 'flags': True, 'id': '19d4750c-a4ce-4fc7-b9ee-95ecf96b6df6', 'mod': '0', 'room-id': '469790580', 'subscriber': '0', 'tmi-sent-ts': '1606636170593', 'turbo': '0', 'user-id': '136685914', 'user-type': True}
+11/29/2020 01:49:32 AM before: @badge-info=;badges=;color=;display-name=datotertot;emotes=;flags=;id=aa821a54-f089-41b8-81ad-2ae33a2ba931;mod=0;room-id=469790580;subscriber=0;tmi-sent-ts=1606636174000;turbo=0;user-id=569286109;user-type= :datotertot!datotertot@datotertot.tmi.twitch.tv PRIVMSG #michaelreeves :Coggers
+11/29/2020 01:49:32 AM after : :datotertot!datotertot@datotertot.tmi.twitch.tv PRIVMSG #michaelreeves :Coggers
+11/29/2020 01:49:32 AM Raw: @badge-info=;badges=;color=;display-name=datotertot;emotes=;flags=;id=aa821a54-f089-41b8-81ad-2ae33a2ba931;mod=0;room-id=469790580;subscriber=0;tmi-sent-ts=1606636174000;turbo=0;user-id=569286109;user-type= :datotertot!datotertot@datotertot.tmi.twitch.tv PRIVMSG #michaelreeves :Coggers
+Prefix: datotertot!datotertot@datotertot.tmi.twitch.tv
+Command: PRIVMSG
+Args: ['#michaelreeves', 'Coggers']
+Tags: {'badge-info': True, 'badges': True, 'color': True, 'display-name': 'datotertot', 'emotes': True, 'flags': True, 'id': 'aa821a54-f089-41b8-81ad-2ae33a2ba931', 'mod': '0', 'room-id': '469790580', 'subscriber': '0', 'tmi-sent-ts': '1606636174000', 'turbo': '0', 'user-id': '569286109', 'user-type': True}
+11/29/2020 01:49:38 AM before: @badge-info=subscriber/6;badges=subscriber/6,glitchcon2020/1;color=#FF69B4;display-name=CODwaffles01;emotes=;flags=;id=56d01a59-efd5-4da9-88b5-39d286bb6bf0;mod=0;room-id=469790580;subscriber=1;tmi-sent-ts=1606636180016;turbo=0;user-id=460201537;user-type= :codwaffles01!codwaffles01@codwaffles01.tmi.twitch.tv PRIVMSG #michaelreeves :OkayChamp @JustADragonEatingTheMoon
+11/29/2020 01:49:38 AM after : :codwaffles01!codwaffles01@codwaffles01.tmi.twitch.tv PRIVMSG #michaelreeves :OkayChamp @JustADragonEatingTheMoon
+11/29/2020 01:49:38 AM Raw: @badge-info=subscriber/6;badges=subscriber/6,glitchcon2020/1;color=#FF69B4;display-name=CODwaffles01;emotes=;flags=;id=56d01a59-efd5-4da9-88b5-39d286bb6bf0;mod=0;room-id=469790580;subscriber=1;tmi-sent-ts=1606636180016;turbo=0;user-id=460201537;user-type= :codwaffles01!codwaffles01@codwaffles01.tmi.twitch.tv PRIVMSG #michaelreeves :OkayChamp @JustADragonEatingTheMoon
+Prefix: codwaffles01!codwaffles01@codwaffles01.tmi.twitch.tv
+Command: PRIVMSG
+Args: ['#michaelreeves', 'OkayChamp @JustADragonEatingTheMoon']
+Tags: {'badge-info': 'subscriber/6', 'badges': 'subscriber/6,glitchcon2020/1', 'color': '#FF69B4', 'display-name': 'CODwaffles01', 'emotes': True, 'flags': True, 'id': '56d01a59-efd5-4da9-88b5-39d286bb6bf0', 'mod': '0', 'room-id': '469790580', 'subscriber': '1', 'tmi-sent-ts': '1606636180016', 'turbo': '0', 'user-id': '460201537', 'user-type': True}
+11/29/2020 01:49:41 AM before: @badge-info=subscriber/6;badges=subscriber/6,bits/50000;color=#7F1616;display-name=jeffboys123;emotes=;flags=;id=bc42b8ba-6129-4400-ab72-46a90cbc2e40;mod=0;room-id=469790580;subscriber=1;tmi-sent-ts=1606636183221;turbo=0;user-id=125906038;user-type= :jeffboys123!jeffboys123@jeffboys123.tmi.twitch.tv PRIVMSG #michaelreeves :PepeLaugh OH NO NO NO
+11/29/2020 01:49:41 AM after : :jeffboys123!jeffboys123@jeffboys123.tmi.twitch.tv PRIVMSG #michaelreeves :PepeLaugh OH NO NO NO
+11/29/2020 01:49:41 AM Raw: @badge-info=subscriber/6;badges=subscriber/6,bits/50000;color=#7F1616;display-name=jeffboys123;emotes=;flags=;id=bc42b8ba-6129-4400-ab72-46a90cbc2e40;mod=0;room-id=469790580;subscriber=1;tmi-sent-ts=1606636183221;turbo=0;user-id=125906038;user-type= :jeffboys123!jeffboys123@jeffboys123.tmi.twitch.tv PRIVMSG #michaelreeves :PepeLaugh OH NO NO NO
+Prefix: jeffboys123!jeffboys123@jeffboys123.tmi.twitch.tv
+Command: PRIVMSG
+Args: ['#michaelreeves', 'PepeLaugh OH NO NO NO']
+Tags: {'badge-info': 'subscriber/6', 'badges': 'subscriber/6,bits/50000', 'color': '#7F1616', 'display-name': 'jeffboys123', 'emotes': True, 'flags': True, 'id': 'bc42b8ba-6129-4400-ab72-46a90cbc2e40', 'mod': '0', 'room-id': '469790580', 'subscriber': '1', 'tmi-sent-ts': '1606636183221', 'turbo': '0', 'user-id': '125906038', 'user-type': True}
+11/29/2020 01:49:59 AM before: @badge-info=subscriber/6;badges=subscriber/6,glitchcon2020/1;color=#FF69B4;display-name=CODwaffles01;emotes=;flags=;id=39a34388-26ec-432b-9b58-60ba96cff07b;mod=0;room-id=469790580;subscriber=1;tmi-sent-ts=1606636199815;turbo=0;user-id=460201537;user-type= :codwaffles01!codwaffles01@codwaffles01.tmi.twitch.tv PRIVMSG #michaelreeves :HandsUp
+11/29/2020 01:49:59 AM after : :codwaffles01!codwaffles01@codwaffles01.tmi.twitch.tv PRIVMSG #michaelreeves :HandsUp
+11/29/2020 01:49:59 AM Raw: @badge-info=subscriber/6;badges=subscriber/6,glitchcon2020/1;color=#FF69B4;display-name=CODwaffles01;emotes=;flags=;id=39a34388-26ec-432b-9b58-60ba96cff07b;mod=0;room-id=469790580;subscriber=1;tmi-sent-ts=1606636199815;turbo=0;user-id=460201537;user-type= :codwaffles01!codwaffles01@codwaffles01.tmi.twitch.tv PRIVMSG #michaelreeves :HandsUp
+Prefix: codwaffles01!codwaffles01@codwaffles01.tmi.twitch.tv
+Command: PRIVMSG
+Args: ['#michaelreeves', 'HandsUp']
+Tags: {'badge-info': 'subscriber/6', 'badges': 'subscriber/6,glitchcon2020/1', 'color': '#FF69B4', 'display-name': 'CODwaffles01', 'emotes': True, 'flags': True, 'id': '39a34388-26ec-432b-9b58-60ba96cff07b', 'mod': '0', 'room-id': '469790580', 'subscriber': '1', 'tmi-sent-ts': '1606636199815', 'turbo': '0', 'user-id': '460201537', 'user-type': True}
+11/29/2020 01:49:59 AM before: @badge-info=;badges=glitchcon2020/1;color=#2F93D2;display-name=JustADragonEatingTheMoon;emotes=;flags=;id=404cb710-06d2-4c14-9a39-a03b0e3d97f7;mod=0;room-id=469790580;subscriber=0;tmi-sent-ts=1606636200326;turbo=0;user-id=136685914;user-type= :justadragoneatingthemoon!justadragoneatingthemoon@justadragoneatingthemoon.tmi.twitch.tv PRIVMSG #michaelreeves :no way this goes wrong
+11/29/2020 01:49:59 AM after : :justadragoneatingthemoon!justadragoneatingthemoon@justadragoneatingthemoon.tmi.twitch.tv PRIVMSG #michaelreeves :no way this goes wrong
+11/29/2020 01:49:59 AM Raw: @badge-info=;badges=glitchcon2020/1;color=#2F93D2;display-name=JustADragonEatingTheMoon;emotes=;flags=;id=404cb710-06d2-4c14-9a39-a03b0e3d97f7;mod=0;room-id=469790580;subscriber=0;tmi-sent-ts=1606636200326;turbo=0;user-id=136685914;user-type= :justadragoneatingthemoon!justadragoneatingthemoon@justadragoneatingthemoon.tmi.twitch.tv PRIVMSG #michaelreeves :no way this goes wrong
+Prefix: justadragoneatingthemoon!justadragoneatingthemoon@justadragoneatingthemoon.tmi.twitch.tv
+Command: PRIVMSG
+Args: ['#michaelreeves', 'no way this goes wrong']
+Tags: {'badge-info': True, 'badges': 'glitchcon2020/1', 'color': '#2F93D2', 'display-name': 'JustADragonEatingTheMoon', 'emotes': True, 'flags': True, 'id': '404cb710-06d2-4c14-9a39-a03b0e3d97f7', 'mod': '0', 'room-id': '469790580', 'subscriber': '0', 'tmi-sent-ts': '1606636200326', 'turbo': '0', 'user-id': '136685914', 'user-type': True}
+11/29/2020 01:50:05 AM before: @badge-info=subscriber/6;badges=subscriber/6,glitchcon2020/1;color=#FF69B4;display-name=CODwaffles01;emotes=;flags=;id=eead183e-fd5c-4aa3-afcc-c1364b6995d2;mod=0;room-id=469790580;subscriber=1;tmi-sent-ts=1606636207345;turbo=0;user-id=460201537;user-type= :codwaffles01!codwaffles01@codwaffles01.tmi.twitch.tv PRIVMSG #michaelreeves :Loba
+11/29/2020 01:50:05 AM after : :codwaffles01!codwaffles01@codwaffles01.tmi.twitch.tv PRIVMSG #michaelreeves :Loba
+11/29/2020 01:50:05 AM Raw: @badge-info=subscriber/6;badges=subscriber/6,glitchcon2020/1;color=#FF69B4;display-name=CODwaffles01;emotes=;flags=;id=eead183e-fd5c-4aa3-afcc-c1364b6995d2;mod=0;room-id=469790580;subscriber=1;tmi-sent-ts=1606636207345;turbo=0;user-id=460201537;user-type= :codwaffles01!codwaffles01@codwaffles01.tmi.twitch.tv PRIVMSG #michaelreeves :Loba
+Prefix: codwaffles01!codwaffles01@codwaffles01.tmi.twitch.tv
+Command: PRIVMSG
+Args: ['#michaelreeves', 'Loba']
+Tags: {'badge-info': 'subscriber/6', 'badges': 'subscriber/6,glitchcon2020/1', 'color': '#FF69B4', 'display-name': 'CODwaffles01', 'emotes': True, 'flags': True, 'id': 'eead183e-fd5c-4aa3-afcc-c1364b6995d2', 'mod': '0', 'room-id': '469790580', 'subscriber': '1', 'tmi-sent-ts': '1606636207345', 'turbo': '0', 'user-id': '460201537', 'user-type': True}
+11/29/2020 01:50:10 AM before: @badge-info=subscriber/6;badges=subscriber/6,glitchcon2020/1;color=#FF69B4;display-name=CODwaffles01;emote-only=1;emotes=301356447:0-8;flags=;id=7c34470d-e9bd-4d32-b870-76d0839b472f;mod=0;room-id=469790580;subscriber=1;tmi-sent-ts=1606636212261;turbo=0;user-id=460201537;user-type= :codwaffles01!codwaffles01@codwaffles01.tmi.twitch.tv PRIVMSG #michaelreeves :lilyFlush
+11/29/2020 01:50:10 AM after : :codwaffles01!codwaffles01@codwaffles01.tmi.twitch.tv PRIVMSG #michaelreeves :lilyFlush
+11/29/2020 01:50:10 AM Raw: @badge-info=subscriber/6;badges=subscriber/6,glitchcon2020/1;color=#FF69B4;display-name=CODwaffles01;emote-only=1;emotes=301356447:0-8;flags=;id=7c34470d-e9bd-4d32-b870-76d0839b472f;mod=0;room-id=469790580;subscriber=1;tmi-sent-ts=1606636212261;turbo=0;user-id=460201537;user-type= :codwaffles01!codwaffles01@codwaffles01.tmi.twitch.tv PRIVMSG #michaelreeves :lilyFlush
+Prefix: codwaffles01!codwaffles01@codwaffles01.tmi.twitch.tv
+Command: PRIVMSG
+Args: ['#michaelreeves', 'lilyFlush']
+Tags: {'badge-info': 'subscriber/6', 'badges': 'subscriber/6,glitchcon2020/1', 'color': '#FF69B4', 'display-name': 'CODwaffles01', 'emote-only': '1', 'emotes': '301356447:0-8', 'flags': True, 'id': '7c34470d-e9bd-4d32-b870-76d0839b472f', 'mod': '0', 'room-id': '469790580', 'subscriber': '1', 'tmi-sent-ts': '1606636212261', 'turbo': '0', 'user-id': '460201537', 'user-type': True}
+11/29/2020 01:50:16 AM before: @badge-info=;badges=;color=;display-name=datotertot;emotes=;flags=;id=825847e4-7430-466d-9df6-fc1662dad0e3;mod=0;room-id=469790580;subscriber=0;tmi-sent-ts=1606636218219;turbo=0;user-id=569286109;user-type= :datotertot!datotertot@datotertot.tmi.twitch.tv PRIVMSG #michaelreeves :!cookie
+11/29/2020 01:50:16 AM after : :datotertot!datotertot@datotertot.tmi.twitch.tv PRIVMSG #michaelreeves :!cookie
+11/29/2020 01:50:16 AM Raw: @badge-info=;badges=;color=;display-name=datotertot;emotes=;flags=;id=825847e4-7430-466d-9df6-fc1662dad0e3;mod=0;room-id=469790580;subscriber=0;tmi-sent-ts=1606636218219;turbo=0;user-id=569286109;user-type= :datotertot!datotertot@datotertot.tmi.twitch.tv PRIVMSG #michaelreeves :!cookie
+Prefix: datotertot!datotertot@datotertot.tmi.twitch.tv
+Command: PRIVMSG
+Args: ['#michaelreeves', '!cookie']
+Tags: {'badge-info': True, 'badges': True, 'color': True, 'display-name': 'datotertot', 'emotes': True, 'flags': True, 'id': '825847e4-7430-466d-9df6-fc1662dad0e3', 'mod': '0', 'room-id': '469790580', 'subscriber': '0', 'tmi-sent-ts': '1606636218219', 'turbo': '0', 'user-id': '569286109', 'user-type': True}
+11/29/2020 01:50:16 AM before: @badge-info=;badges=glhf-pledge/1;color=#5F9EA0;display-name=ThePositiveBot;emotes=4339:55-63;flags=;id=0926f05f-c42e-49f8-8a0f-6c633d83fc80;mod=0;room-id=469790580;subscriber=0;tmi-sent-ts=1606636218400;turbo=0;user-id=425363834;user-type= :thepositivebot!thepositivebot@thepositivebot.tmi.twitch.tv PRIVMSG #michaelreeves :ACTION [Cookies] [default] datotertot -> Oatmeal cookie! (+3) EleGiggle | 13 total! | 2 hour cooldown... 🍪
+11/29/2020 01:50:16 AM after : :thepositivebot!thepositivebot@thepositivebot.tmi.twitch.tv PRIVMSG #michaelreeves :ACTION [Cookies] [default] datotertot -> Oatmeal cookie! (+3) EleGiggle | 13 total! | 2 hour cooldown... 🍪
+11/29/2020 01:50:16 AM Raw: @badge-info=;badges=glhf-pledge/1;color=#5F9EA0;display-name=ThePositiveBot;emotes=4339:55-63;flags=;id=0926f05f-c42e-49f8-8a0f-6c633d83fc80;mod=0;room-id=469790580;subscriber=0;tmi-sent-ts=1606636218400;turbo=0;user-id=425363834;user-type= :thepositivebot!thepositivebot@thepositivebot.tmi.twitch.tv PRIVMSG #michaelreeves :ACTION [Cookies] [default] datotertot -> Oatmeal cookie! (+3) EleGiggle | 13 total! | 2 hour cooldown... 🍪
+Prefix: thepositivebot!thepositivebot@thepositivebot.tmi.twitch.tv
+Command: PRIVMSG
+Args: ['#michaelreeves', '\x01ACTION [Cookies] [default] datotertot -> Oatmeal cookie! (+3) EleGiggle | 13 total! | 2 hour cooldown... 🍪\x01']
+Tags: {'badge-info': True, 'badges': 'glhf-pledge/1', 'color': '#5F9EA0', 'display-name': 'ThePositiveBot', 'emotes': '4339:55-63', 'flags': True, 'id': '0926f05f-c42e-49f8-8a0f-6c633d83fc80', 'mod': '0', 'room-id': '469790580', 'subscriber': '0', 'tmi-sent-ts': '1606636218400', 'turbo': '0', 'user-id': '425363834', 'user-type': True}
+11/29/2020 01:51:23 AM Raw: PING :tmi.twitch.tv
+Prefix: 
+Command: PING
+Args: ['tmi.twitch.tv']
+Tags: {}
+11/29/2020 01:52:33 AM before: @badge-info=;badges=moderator/1,twitchconAmsterdam2020/1;color=#00B9FF;display-name=MarcFryd;emotes=;flags=;id=0bf05cea-d32e-4b4a-9d2f-4e8a7b33e582;mod=1;room-id=469790580;subscriber=0;tmi-sent-ts=1606636355085;turbo=0;user-id=44710465;user-type=mod :marcfryd!marcfryd@marcfryd.tmi.twitch.tv PRIVMSG #michaelreeves :mate
+11/29/2020 01:52:33 AM after : :marcfryd!marcfryd@marcfryd.tmi.twitch.tv PRIVMSG #michaelreeves :mate
+11/29/2020 01:52:33 AM Raw: @badge-info=;badges=moderator/1,twitchconAmsterdam2020/1;color=#00B9FF;display-name=MarcFryd;emotes=;flags=;id=0bf05cea-d32e-4b4a-9d2f-4e8a7b33e582;mod=1;room-id=469790580;subscriber=0;tmi-sent-ts=1606636355085;turbo=0;user-id=44710465;user-type=mod :marcfryd!marcfryd@marcfryd.tmi.twitch.tv PRIVMSG #michaelreeves :mate
+Prefix: marcfryd!marcfryd@marcfryd.tmi.twitch.tv
+Command: PRIVMSG
+Args: ['#michaelreeves', 'mate']
+Tags: {'badge-info': True, 'badges': 'moderator/1,twitchconAmsterdam2020/1', 'color': '#00B9FF', 'display-name': 'MarcFryd', 'emotes': True, 'flags': True, 'id': '0bf05cea-d32e-4b4a-9d2f-4e8a7b33e582', 'mod': '1', 'room-id': '469790580', 'subscriber': '0', 'tmi-sent-ts': '1606636355085', 'turbo': '0', 'user-id': '44710465', 'user-type': 'mod'}
+11/29/2020 01:52:37 AM before: @badge-info=;badges=moderator/1,twitchconAmsterdam2020/1;color=#00B9FF;display-name=MarcFryd;emotes=;flags=;id=ce3c6367-3659-4693-8f7d-7e394705450c;mod=1;room-id=469790580;subscriber=0;tmi-sent-ts=1606636359389;turbo=0;user-id=44710465;user-type=mod :marcfryd!marcfryd@marcfryd.tmi.twitch.tv PRIVMSG #michaelreeves :why u even banning him
+11/29/2020 01:52:37 AM after : :marcfryd!marcfryd@marcfryd.tmi.twitch.tv PRIVMSG #michaelreeves :why u even banning him
+11/29/2020 01:52:37 AM Raw: @badge-info=;badges=moderator/1,twitchconAmsterdam2020/1;color=#00B9FF;display-name=MarcFryd;emotes=;flags=;id=ce3c6367-3659-4693-8f7d-7e394705450c;mod=1;room-id=469790580;subscriber=0;tmi-sent-ts=1606636359389;turbo=0;user-id=44710465;user-type=mod :marcfryd!marcfryd@marcfryd.tmi.twitch.tv PRIVMSG #michaelreeves :why u even banning him
+Prefix: marcfryd!marcfryd@marcfryd.tmi.twitch.tv
+Command: PRIVMSG
+Args: ['#michaelreeves', 'why u even banning him']
+Tags: {'badge-info': True, 'badges': 'moderator/1,twitchconAmsterdam2020/1', 'color': '#00B9FF', 'display-name': 'MarcFryd', 'emotes': True, 'flags': True, 'id': 'ce3c6367-3659-4693-8f7d-7e394705450c', 'mod': '1', 'room-id': '469790580', 'subscriber': '0', 'tmi-sent-ts': '1606636359389', 'turbo': '0', 'user-id': '44710465', 'user-type': 'mod'}
+11/29/2020 01:52:40 AM before: @badge-info=;badges=moderator/1,twitchconAmsterdam2020/1;color=#00B9FF;display-name=MarcFryd;emotes=;flags=;id=e6406840-17f0-401b-9f9e-905e561ef861;mod=1;room-id=469790580;subscriber=0;tmi-sent-ts=1606636361918;turbo=0;user-id=44710465;user-type=mod :marcfryd!marcfryd@marcfryd.tmi.twitch.tv PRIVMSG #michaelreeves :i love this guy
+11/29/2020 01:52:40 AM after : :marcfryd!marcfryd@marcfryd.tmi.twitch.tv PRIVMSG #michaelreeves :i love this guy
+11/29/2020 01:52:40 AM Raw: @badge-info=;badges=moderator/1,twitchconAmsterdam2020/1;color=#00B9FF;display-name=MarcFryd;emotes=;flags=;id=e6406840-17f0-401b-9f9e-905e561ef861;mod=1;room-id=469790580;subscriber=0;tmi-sent-ts=1606636361918;turbo=0;user-id=44710465;user-type=mod :marcfryd!marcfryd@marcfryd.tmi.twitch.tv PRIVMSG #michaelreeves :i love this guy
+Prefix: marcfryd!marcfryd@marcfryd.tmi.twitch.tv
+Command: PRIVMSG
+Args: ['#michaelreeves', 'i love this guy']
+Tags: {'badge-info': True, 'badges': 'moderator/1,twitchconAmsterdam2020/1', 'color': '#00B9FF', 'display-name': 'MarcFryd', 'emotes': True, 'flags': True, 'id': 'e6406840-17f0-401b-9f9e-905e561ef861', 'mod': '1', 'room-id': '469790580', 'subscriber': '0', 'tmi-sent-ts': '1606636361918', 'turbo': '0', 'user-id': '44710465', 'user-type': 'mod'}
+11/29/2020 01:52:58 AM before: @badge-info=subscriber/6;badges=subscriber/6,hype-train/2;color=#FFFFFF;display-name=MortalEcko;emotes=;flags=;id=03f5f952-fee3-436d-8419-7e5e27b823a0;mod=0;room-id=469790580;subscriber=1;tmi-sent-ts=1606636379598;turbo=0;user-id=41263366;user-type= :mortalecko!mortalecko@mortalecko.tmi.twitch.tv PRIVMSG #michaelreeves :monkaW
+11/29/2020 01:52:58 AM after : :mortalecko!mortalecko@mortalecko.tmi.twitch.tv PRIVMSG #michaelreeves :monkaW
+11/29/2020 01:52:58 AM Raw: @badge-info=subscriber/6;badges=subscriber/6,hype-train/2;color=#FFFFFF;display-name=MortalEcko;emotes=;flags=;id=03f5f952-fee3-436d-8419-7e5e27b823a0;mod=0;room-id=469790580;subscriber=1;tmi-sent-ts=1606636379598;turbo=0;user-id=41263366;user-type= :mortalecko!mortalecko@mortalecko.tmi.twitch.tv PRIVMSG #michaelreeves :monkaW
+Prefix: mortalecko!mortalecko@mortalecko.tmi.twitch.tv
+Command: PRIVMSG
+Args: ['#michaelreeves', 'monkaW']
+Tags: {'badge-info': 'subscriber/6', 'badges': 'subscriber/6,hype-train/2', 'color': '#FFFFFF', 'display-name': 'MortalEcko', 'emotes': True, 'flags': True, 'id': '03f5f952-fee3-436d-8419-7e5e27b823a0', 'mod': '0', 'room-id': '469790580', 'subscriber': '1', 'tmi-sent-ts': '1606636379598', 'turbo': '0', 'user-id': '41263366', 'user-type': True}
+11/29/2020 01:53:31 AM before: @badge-info=subscriber/6;badges=subscriber/6;color=#FF69B4;display-name=elly051;emotes=;flags=;id=954c125b-856c-4c84-a41a-3a9ab69cc071;mod=0;room-id=469790580;subscriber=1;tmi-sent-ts=1606636413087;turbo=0;user-id=65706555;user-type= :elly051!elly051@elly051.tmi.twitch.tv PRIVMSG #michaelreeves :peepoComfy
+11/29/2020 01:53:31 AM after : :elly051!elly051@elly051.tmi.twitch.tv PRIVMSG #michaelreeves :peepoComfy
+11/29/2020 01:53:31 AM Raw: @badge-info=subscriber/6;badges=subscriber/6;color=#FF69B4;display-name=elly051;emotes=;flags=;id=954c125b-856c-4c84-a41a-3a9ab69cc071;mod=0;room-id=469790580;subscriber=1;tmi-sent-ts=1606636413087;turbo=0;user-id=65706555;user-type= :elly051!elly051@elly051.tmi.twitch.tv PRIVMSG #michaelreeves :peepoComfy
+Prefix: elly051!elly051@elly051.tmi.twitch.tv
+Command: PRIVMSG
+Args: ['#michaelreeves', 'peepoComfy']
+Tags: {'badge-info': 'subscriber/6', 'badges': 'subscriber/6', 'color': '#FF69B4', 'display-name': 'elly051', 'emotes': True, 'flags': True, 'id': '954c125b-856c-4c84-a41a-3a9ab69cc071', 'mod': '0', 'room-id': '469790580', 'subscriber': '1', 'tmi-sent-ts': '1606636413087', 'turbo': '0', 'user-id': '65706555', 'user-type': True}
+11/29/2020 01:54:02 AM before: @badge-info=subscriber/6;badges=subscriber/6,bits/50000;color=#7F1616;display-name=jeffboys123;emotes=;flags=;id=00c82fca-75cf-4f0f-9156-9017d4abe610;mod=0;room-id=469790580;subscriber=1;tmi-sent-ts=1606636444548;turbo=0;user-id=125906038;user-type= :jeffboys123!jeffboys123@jeffboys123.tmi.twitch.tv PRIVMSG #michaelreeves :PepeLaugh
+11/29/2020 01:54:02 AM after : :jeffboys123!jeffboys123@jeffboys123.tmi.twitch.tv PRIVMSG #michaelreeves :PepeLaugh
+11/29/2020 01:54:02 AM Raw: @badge-info=subscriber/6;badges=subscriber/6,bits/50000;color=#7F1616;display-name=jeffboys123;emotes=;flags=;id=00c82fca-75cf-4f0f-9156-9017d4abe610;mod=0;room-id=469790580;subscriber=1;tmi-sent-ts=1606636444548;turbo=0;user-id=125906038;user-type= :jeffboys123!jeffboys123@jeffboys123.tmi.twitch.tv PRIVMSG #michaelreeves :PepeLaugh
+Prefix: jeffboys123!jeffboys123@jeffboys123.tmi.twitch.tv
+Command: PRIVMSG
+Args: ['#michaelreeves', 'PepeLaugh']
+Tags: {'badge-info': 'subscriber/6', 'badges': 'subscriber/6,bits/50000', 'color': '#7F1616', 'display-name': 'jeffboys123', 'emotes': True, 'flags': True, 'id': '00c82fca-75cf-4f0f-9156-9017d4abe610', 'mod': '0', 'room-id': '469790580', 'subscriber': '1', 'tmi-sent-ts': '1606636444548', 'turbo': '0', 'user-id': '125906038', 'user-type': True}
+11/29/2020 01:54:04 AM before: @badge-info=subscriber/6;badges=subscriber/6,hype-train/2;color=#FFFFFF;display-name=MortalEcko;emotes=;flags=;id=28ef6d39-05e5-4ad0-83e9-ab074ecd7197;mod=0;room-id=469790580;subscriber=1;tmi-sent-ts=1606636445904;turbo=0;user-id=41263366;user-type= :mortalecko!mortalecko@mortalecko.tmi.twitch.tv PRIVMSG #michaelreeves :peepoComfy
+11/29/2020 01:54:04 AM after : :mortalecko!mortalecko@mortalecko.tmi.twitch.tv PRIVMSG #michaelreeves :peepoComfy
+11/29/2020 01:54:04 AM Raw: @badge-info=subscriber/6;badges=subscriber/6,hype-train/2;color=#FFFFFF;display-name=MortalEcko;emotes=;flags=;id=28ef6d39-05e5-4ad0-83e9-ab074ecd7197;mod=0;room-id=469790580;subscriber=1;tmi-sent-ts=1606636445904;turbo=0;user-id=41263366;user-type= :mortalecko!mortalecko@mortalecko.tmi.twitch.tv PRIVMSG #michaelreeves :peepoComfy
+Prefix: mortalecko!mortalecko@mortalecko.tmi.twitch.tv
+Command: PRIVMSG
+Args: ['#michaelreeves', 'peepoComfy']
+Tags: {'badge-info': 'subscriber/6', 'badges': 'subscriber/6,hype-train/2', 'color': '#FFFFFF', 'display-name': 'MortalEcko', 'emotes': True, 'flags': True, 'id': '28ef6d39-05e5-4ad0-83e9-ab074ecd7197', 'mod': '0', 'room-id': '469790580', 'subscriber': '1', 'tmi-sent-ts': '1606636445904', 'turbo': '0', 'user-id': '41263366', 'user-type': True}
+11/29/2020 01:54:54 AM before: @badge-info=subscriber/6;badges=moderator/1,subscriber/6,glhf-pledge/1;color=#B22222;display-name=Dimtree22;emotes=;flags=;id=c7033fcd-0078-4d90-bdff-d77950c53574;mod=1;room-id=469790580;subscriber=1;tmi-sent-ts=1606636495995;turbo=0;user-id=77975706;user-type=mod :dimtree22!dimtree22@dimtree22.tmi.twitch.tv PRIVMSG #michaelreeves :marc that's the mass-ping spambot
+11/29/2020 01:54:54 AM after : :dimtree22!dimtree22@dimtree22.tmi.twitch.tv PRIVMSG #michaelreeves :marc that's the mass-ping spambot
+11/29/2020 01:54:54 AM Raw: @badge-info=subscriber/6;badges=moderator/1,subscriber/6,glhf-pledge/1;color=#B22222;display-name=Dimtree22;emotes=;flags=;id=c7033fcd-0078-4d90-bdff-d77950c53574;mod=1;room-id=469790580;subscriber=1;tmi-sent-ts=1606636495995;turbo=0;user-id=77975706;user-type=mod :dimtree22!dimtree22@dimtree22.tmi.twitch.tv PRIVMSG #michaelreeves :marc that's the mass-ping spambot
+Prefix: dimtree22!dimtree22@dimtree22.tmi.twitch.tv
+Command: PRIVMSG
+Args: ['#michaelreeves', "marc that's the mass-ping spambot"]
+Tags: {'badge-info': 'subscriber/6', 'badges': 'moderator/1,subscriber/6,glhf-pledge/1', 'color': '#B22222', 'display-name': 'Dimtree22', 'emotes': True, 'flags': True, 'id': 'c7033fcd-0078-4d90-bdff-d77950c53574', 'mod': '1', 'room-id': '469790580', 'subscriber': '1', 'tmi-sent-ts': '1606636495995', 'turbo': '0', 'user-id': '77975706', 'user-type': 'mod'}
+11/29/2020 01:55:03 AM before: @badge-info=;badges=moderator/1,twitchconAmsterdam2020/1;color=#00B9FF;display-name=MarcFryd;emotes=;flags=;id=0cb66335-5ce6-46ee-8dbe-02358ea857f3;mod=1;room-id=469790580;subscriber=0;tmi-sent-ts=1606636504537;turbo=0;user-id=44710465;user-type=mod :marcfryd!marcfryd@marcfryd.tmi.twitch.tv PRIVMSG #michaelreeves :its a guy PepeLaugh
+11/29/2020 01:55:03 AM after : :marcfryd!marcfryd@marcfryd.tmi.twitch.tv PRIVMSG #michaelreeves :its a guy PepeLaugh
+11/29/2020 01:55:03 AM Raw: @badge-info=;badges=moderator/1,twitchconAmsterdam2020/1;color=#00B9FF;display-name=MarcFryd;emotes=;flags=;id=0cb66335-5ce6-46ee-8dbe-02358ea857f3;mod=1;room-id=469790580;subscriber=0;tmi-sent-ts=1606636504537;turbo=0;user-id=44710465;user-type=mod :marcfryd!marcfryd@marcfryd.tmi.twitch.tv PRIVMSG #michaelreeves :its a guy PepeLaugh
+Prefix: marcfryd!marcfryd@marcfryd.tmi.twitch.tv
+Command: PRIVMSG
+Args: ['#michaelreeves', 'its a guy PepeLaugh']
+Tags: {'badge-info': True, 'badges': 'moderator/1,twitchconAmsterdam2020/1', 'color': '#00B9FF', 'display-name': 'MarcFryd', 'emotes': True, 'flags': True, 'id': '0cb66335-5ce6-46ee-8dbe-02358ea857f3', 'mod': '1', 'room-id': '469790580', 'subscriber': '0', 'tmi-sent-ts': '1606636504537', 'turbo': '0', 'user-id': '44710465', 'user-type': 'mod'}
+11/29/2020 01:55:15 AM before: @badge-info=subscriber/6;badges=moderator/1,subscriber/6,glhf-pledge/1;color=#B22222;display-name=Dimtree22;emotes=;flags=;id=6ec1b3ec-bd38-4c05-a428-4c73d52fc51b;mod=1;room-id=469790580;subscriber=1;tmi-sent-ts=1606636517604;turbo=0;user-id=77975706;user-type=mod :dimtree22!dimtree22@dimtree22.tmi.twitch.tv PRIVMSG #michaelreeves :his account is 4 hours old
+11/29/2020 01:55:15 AM after : :dimtree22!dimtree22@dimtree22.tmi.twitch.tv PRIVMSG #michaelreeves :his account is 4 hours old
+11/29/2020 01:55:15 AM Raw: @badge-info=subscriber/6;badges=moderator/1,subscriber/6,glhf-pledge/1;color=#B22222;display-name=Dimtree22;emotes=;flags=;id=6ec1b3ec-bd38-4c05-a428-4c73d52fc51b;mod=1;room-id=469790580;subscriber=1;tmi-sent-ts=1606636517604;turbo=0;user-id=77975706;user-type=mod :dimtree22!dimtree22@dimtree22.tmi.twitch.tv PRIVMSG #michaelreeves :his account is 4 hours old
+Prefix: dimtree22!dimtree22@dimtree22.tmi.twitch.tv
+Command: PRIVMSG
+Args: ['#michaelreeves', 'his account is 4 hours old']
+Tags: {'badge-info': 'subscriber/6', 'badges': 'moderator/1,subscriber/6,glhf-pledge/1', 'color': '#B22222', 'display-name': 'Dimtree22', 'emotes': True, 'flags': True, 'id': '6ec1b3ec-bd38-4c05-a428-4c73d52fc51b', 'mod': '1', 'room-id': '469790580', 'subscriber': '1', 'tmi-sent-ts': '1606636517604', 'turbo': '0', 'user-id': '77975706', 'user-type': 'mod'}
+11/29/2020 01:55:17 AM before: @badge-info=;badges=;client-nonce=ebad8154f53e12ad05e830d8f59a4d8d;color=;display-name=N_fa_78;emotes=;flags=;id=639b5a4a-8197-47bb-a614-c14b39738eed;mod=0;room-id=469790580;subscriber=0;tmi-sent-ts=1606636518730;turbo=0;user-id=66591349;user-type= :n_fa_78!n_fa_78@n_fa_78.tmi.twitch.tv PRIVMSG #michaelreeves :what
+11/29/2020 01:55:17 AM after : :n_fa_78!n_fa_78@n_fa_78.tmi.twitch.tv PRIVMSG #michaelreeves :what
+11/29/2020 01:55:17 AM Raw: @badge-info=;badges=;client-nonce=ebad8154f53e12ad05e830d8f59a4d8d;color=;display-name=N_fa_78;emotes=;flags=;id=639b5a4a-8197-47bb-a614-c14b39738eed;mod=0;room-id=469790580;subscriber=0;tmi-sent-ts=1606636518730;turbo=0;user-id=66591349;user-type= :n_fa_78!n_fa_78@n_fa_78.tmi.twitch.tv PRIVMSG #michaelreeves :what
+Prefix: n_fa_78!n_fa_78@n_fa_78.tmi.twitch.tv
+Command: PRIVMSG
+Args: ['#michaelreeves', 'what']
+Tags: {'badge-info': True, 'badges': True, 'client-nonce': 'ebad8154f53e12ad05e830d8f59a4d8d', 'color': True, 'display-name': 'N_fa_78', 'emotes': True, 'flags': True, 'id': '639b5a4a-8197-47bb-a614-c14b39738eed', 'mod': '0', 'room-id': '469790580', 'subscriber': '0', 'tmi-sent-ts': '1606636518730', 'turbo': '0', 'user-id': '66591349', 'user-type': True}
+11/29/2020 01:55:20 AM before: @badge-info=subscriber/6;badges=moderator/1,subscriber/6,glhf-pledge/1;color=#B22222;display-name=Dimtree22;emotes=;flags=;id=14c9f172-ecb2-496a-ab09-3b5e8297efcd;mod=1;room-id=469790580;subscriber=1;tmi-sent-ts=1606636522360;turbo=0;user-id=77975706;user-type=mod :dimtree22!dimtree22@dimtree22.tmi.twitch.tv PRIVMSG #michaelreeves :no way you know him
+11/29/2020 01:55:20 AM after : :dimtree22!dimtree22@dimtree22.tmi.twitch.tv PRIVMSG #michaelreeves :no way you know him
+11/29/2020 01:55:20 AM Raw: @badge-info=subscriber/6;badges=moderator/1,subscriber/6,glhf-pledge/1;color=#B22222;display-name=Dimtree22;emotes=;flags=;id=14c9f172-ecb2-496a-ab09-3b5e8297efcd;mod=1;room-id=469790580;subscriber=1;tmi-sent-ts=1606636522360;turbo=0;user-id=77975706;user-type=mod :dimtree22!dimtree22@dimtree22.tmi.twitch.tv PRIVMSG #michaelreeves :no way you know him
+Prefix: dimtree22!dimtree22@dimtree22.tmi.twitch.tv
+Command: PRIVMSG
+Args: ['#michaelreeves', 'no way you know him']
+Tags: {'badge-info': 'subscriber/6', 'badges': 'moderator/1,subscriber/6,glhf-pledge/1', 'color': '#B22222', 'display-name': 'Dimtree22', 'emotes': True, 'flags': True, 'id': '14c9f172-ecb2-496a-ab09-3b5e8297efcd', 'mod': '1', 'room-id': '469790580', 'subscriber': '1', 'tmi-sent-ts': '1606636522360', 'turbo': '0', 'user-id': '77975706', 'user-type': 'mod'}
+11/29/2020 01:55:31 AM before: @badge-info=;badges=moderator/1,twitchconAmsterdam2020/1;color=#00B9FF;display-name=MarcFryd;emotes=;flags=;id=b079e55f-95bb-4201-adee-fba133792919;mod=1;room-id=469790580;subscriber=0;tmi-sent-ts=1606636532697;turbo=0;user-id=44710465;user-type=mod :marcfryd!marcfryd@marcfryd.tmi.twitch.tv PRIVMSG #michaelreeves :ofc
+11/29/2020 01:55:31 AM after : :marcfryd!marcfryd@marcfryd.tmi.twitch.tv PRIVMSG #michaelreeves :ofc
+11/29/2020 01:55:31 AM Raw: @badge-info=;badges=moderator/1,twitchconAmsterdam2020/1;color=#00B9FF;display-name=MarcFryd;emotes=;flags=;id=b079e55f-95bb-4201-adee-fba133792919;mod=1;room-id=469790580;subscriber=0;tmi-sent-ts=1606636532697;turbo=0;user-id=44710465;user-type=mod :marcfryd!marcfryd@marcfryd.tmi.twitch.tv PRIVMSG #michaelreeves :ofc
+Prefix: marcfryd!marcfryd@marcfryd.tmi.twitch.tv
+Command: PRIVMSG
+Args: ['#michaelreeves', 'ofc']
+Tags: {'badge-info': True, 'badges': 'moderator/1,twitchconAmsterdam2020/1', 'color': '#00B9FF', 'display-name': 'MarcFryd', 'emotes': True, 'flags': True, 'id': 'b079e55f-95bb-4201-adee-fba133792919', 'mod': '1', 'room-id': '469790580', 'subscriber': '0', 'tmi-sent-ts': '1606636532697', 'turbo': '0', 'user-id': '44710465', 'user-type': 'mod'}
+11/29/2020 01:55:32 AM before: @badge-info=;badges=moderator/1,twitchconAmsterdam2020/1;color=#00B9FF;display-name=MarcFryd;emotes=;flags=;id=3d0e74e9-f781-4a26-98a4-c548ede94d11;mod=1;room-id=469790580;subscriber=0;tmi-sent-ts=1606636534511;turbo=0;user-id=44710465;user-type=mod :marcfryd!marcfryd@marcfryd.tmi.twitch.tv PRIVMSG #michaelreeves :what
+11/29/2020 01:55:32 AM after : :marcfryd!marcfryd@marcfryd.tmi.twitch.tv PRIVMSG #michaelreeves :what
+11/29/2020 01:55:32 AM Raw: @badge-info=;badges=moderator/1,twitchconAmsterdam2020/1;color=#00B9FF;display-name=MarcFryd;emotes=;flags=;id=3d0e74e9-f781-4a26-98a4-c548ede94d11;mod=1;room-id=469790580;subscriber=0;tmi-sent-ts=1606636534511;turbo=0;user-id=44710465;user-type=mod :marcfryd!marcfryd@marcfryd.tmi.twitch.tv PRIVMSG #michaelreeves :what
+Prefix: marcfryd!marcfryd@marcfryd.tmi.twitch.tv
+Command: PRIVMSG
+Args: ['#michaelreeves', 'what']
+Tags: {'badge-info': True, 'badges': 'moderator/1,twitchconAmsterdam2020/1', 'color': '#00B9FF', 'display-name': 'MarcFryd', 'emotes': True, 'flags': True, 'id': '3d0e74e9-f781-4a26-98a4-c548ede94d11', 'mod': '1', 'room-id': '469790580', 'subscriber': '0', 'tmi-sent-ts': '1606636534511', 'turbo': '0', 'user-id': '44710465', 'user-type': 'mod'}
+11/29/2020 01:55:35 AM before: @badge-info=;badges=;client-nonce=b3f25f16beab2edb3b4a200ae58a10c9;color=;display-name=N_fa_78;emotes=;flags=;id=e7bb31c9-214d-4b13-ba53-83fdbd9294db;mod=0;room-id=469790580;subscriber=0;tmi-sent-ts=1606636537347;turbo=0;user-id=66591349;user-type= :n_fa_78!n_fa_78@n_fa_78.tmi.twitch.tv PRIVMSG #michaelreeves :people are still chatting here
+11/29/2020 01:55:35 AM after : :n_fa_78!n_fa_78@n_fa_78.tmi.twitch.tv PRIVMSG #michaelreeves :people are still chatting here
+11/29/2020 01:55:35 AM Raw: @badge-info=;badges=;client-nonce=b3f25f16beab2edb3b4a200ae58a10c9;color=;display-name=N_fa_78;emotes=;flags=;id=e7bb31c9-214d-4b13-ba53-83fdbd9294db;mod=0;room-id=469790580;subscriber=0;tmi-sent-ts=1606636537347;turbo=0;user-id=66591349;user-type= :n_fa_78!n_fa_78@n_fa_78.tmi.twitch.tv PRIVMSG #michaelreeves :people are still chatting here
+Prefix: n_fa_78!n_fa_78@n_fa_78.tmi.twitch.tv
+Command: PRIVMSG
+Args: ['#michaelreeves', 'people are still chatting here']
+Tags: {'badge-info': True, 'badges': True, 'client-nonce': 'b3f25f16beab2edb3b4a200ae58a10c9', 'color': True, 'display-name': 'N_fa_78', 'emotes': True, 'flags': True, 'id': 'e7bb31c9-214d-4b13-ba53-83fdbd9294db', 'mod': '0', 'room-id': '469790580', 'subscriber': '0', 'tmi-sent-ts': '1606636537347', 'turbo': '0', 'user-id': '66591349', 'user-type': True}
+11/29/2020 01:55:36 AM before: @badge-info=;badges=moderator/1,twitchconAmsterdam2020/1;color=#00B9FF;display-name=MarcFryd;emotes=;flags=;id=56fe7721-23c2-47ba-88c8-9ea64d160d3d;mod=1;room-id=469790580;subscriber=0;tmi-sent-ts=1606636538324;turbo=0;user-id=44710465;user-type=mod :marcfryd!marcfryd@marcfryd.tmi.twitch.tv PRIVMSG #michaelreeves :he's in erobb
+11/29/2020 01:55:36 AM after : :marcfryd!marcfryd@marcfryd.tmi.twitch.tv PRIVMSG #michaelreeves :he's in erobb
+11/29/2020 01:55:36 AM Raw: @badge-info=;badges=moderator/1,twitchconAmsterdam2020/1;color=#00B9FF;display-name=MarcFryd;emotes=;flags=;id=56fe7721-23c2-47ba-88c8-9ea64d160d3d;mod=1;room-id=469790580;subscriber=0;tmi-sent-ts=1606636538324;turbo=0;user-id=44710465;user-type=mod :marcfryd!marcfryd@marcfryd.tmi.twitch.tv PRIVMSG #michaelreeves :he's in erobb
+Prefix: marcfryd!marcfryd@marcfryd.tmi.twitch.tv
+Command: PRIVMSG
+Args: ['#michaelreeves', "he's in erobb"]
+Tags: {'badge-info': True, 'badges': 'moderator/1,twitchconAmsterdam2020/1', 'color': '#00B9FF', 'display-name': 'MarcFryd', 'emotes': True, 'flags': True, 'id': '56fe7721-23c2-47ba-88c8-9ea64d160d3d', 'mod': '1', 'room-id': '469790580', 'subscriber': '0', 'tmi-sent-ts': '1606636538324', 'turbo': '0', 'user-id': '44710465', 'user-type': 'mod'}
+11/29/2020 01:55:42 AM before: @badge-info=;badges=moderator/1,twitchconAmsterdam2020/1;color=#00B9FF;display-name=MarcFryd;emotes=;flags=;id=bc58e935-ecf7-4064-9ce2-592aa32a9704;mod=1;room-id=469790580;subscriber=0;tmi-sent-ts=1606636544173;turbo=0;user-id=44710465;user-type=mod :marcfryd!marcfryd@marcfryd.tmi.twitch.tv PRIVMSG #michaelreeves :FeelsOkayMan
+11/29/2020 01:55:42 AM after : :marcfryd!marcfryd@marcfryd.tmi.twitch.tv PRIVMSG #michaelreeves :FeelsOkayMan
+11/29/2020 01:55:42 AM Raw: @badge-info=;badges=moderator/1,twitchconAmsterdam2020/1;color=#00B9FF;display-name=MarcFryd;emotes=;flags=;id=bc58e935-ecf7-4064-9ce2-592aa32a9704;mod=1;room-id=469790580;subscriber=0;tmi-sent-ts=1606636544173;turbo=0;user-id=44710465;user-type=mod :marcfryd!marcfryd@marcfryd.tmi.twitch.tv PRIVMSG #michaelreeves :FeelsOkayMan
+Prefix: marcfryd!marcfryd@marcfryd.tmi.twitch.tv
+Command: PRIVMSG
+Args: ['#michaelreeves', 'FeelsOkayMan']
+Tags: {'badge-info': True, 'badges': 'moderator/1,twitchconAmsterdam2020/1', 'color': '#00B9FF', 'display-name': 'MarcFryd', 'emotes': True, 'flags': True, 'id': 'bc58e935-ecf7-4064-9ce2-592aa32a9704', 'mod': '1', 'room-id': '469790580', 'subscriber': '0', 'tmi-sent-ts': '1606636544173', 'turbo': '0', 'user-id': '44710465', 'user-type': 'mod'}
+11/29/2020 01:55:43 AM before: @badge-info=;badges=glhf-pledge/1;color=#5F9EA0;display-name=ThePositiveBot;emotes=88:33-40/100590:95-100;flags=;id=c65085f6-630a-485f-9e54-d1856d0cc4c7;mod=0;room-id=469790580;subscriber=0;tmi-sent-ts=1606636544640;turbo=0;user-id=425363834;user-type= :thepositivebot!thepositivebot@thepositivebot.tmi.twitch.tv PRIVMSG #michaelreeves :ACTION [Minigame] AUTOMATIC UNSCRAMBLE! PogChamp The first person to unscramble etniOr wins 1 cookie! OpieOP
+11/29/2020 01:55:43 AM after : :thepositivebot!thepositivebot@thepositivebot.tmi.twitch.tv PRIVMSG #michaelreeves :ACTION [Minigame] AUTOMATIC UNSCRAMBLE! PogChamp The first person to unscramble etniOr wins 1 cookie! OpieOP
+11/29/2020 01:55:43 AM Raw: @badge-info=;badges=glhf-pledge/1;color=#5F9EA0;display-name=ThePositiveBot;emotes=88:33-40/100590:95-100;flags=;id=c65085f6-630a-485f-9e54-d1856d0cc4c7;mod=0;room-id=469790580;subscriber=0;tmi-sent-ts=1606636544640;turbo=0;user-id=425363834;user-type= :thepositivebot!thepositivebot@thepositivebot.tmi.twitch.tv PRIVMSG #michaelreeves :ACTION [Minigame] AUTOMATIC UNSCRAMBLE! PogChamp The first person to unscramble etniOr wins 1 cookie! OpieOP
+Prefix: thepositivebot!thepositivebot@thepositivebot.tmi.twitch.tv
+Command: PRIVMSG
+Args: ['#michaelreeves', '\x01ACTION [Minigame] AUTOMATIC UNSCRAMBLE! PogChamp The first person to unscramble etniOr wins 1 cookie! OpieOP\x01']
+Tags: {'badge-info': True, 'badges': 'glhf-pledge/1', 'color': '#5F9EA0', 'display-name': 'ThePositiveBot', 'emotes': '88:33-40/100590:95-100', 'flags': True, 'id': 'c65085f6-630a-485f-9e54-d1856d0cc4c7', 'mod': '0', 'room-id': '469790580', 'subscriber': '0', 'tmi-sent-ts': '1606636544640', 'turbo': '0', 'user-id': '425363834', 'user-type': True}
+11/29/2020 01:55:46 AM before: @badge-info=;badges=glitchcon2020/1;color=#2F93D2;display-name=JustADragonEatingTheMoon;emotes=;flags=;id=bb196782-b0ef-4c00-9d6e-d88b4c7ff421;mod=0;room-id=469790580;subscriber=0;tmi-sent-ts=1606636547779;turbo=0;user-id=136685914;user-type= :justadragoneatingthemoon!justadragoneatingthemoon@justadragoneatingthemoon.tmi.twitch.tv PRIVMSG #michaelreeves :no you are just seeing things
+11/29/2020 01:55:46 AM after : :justadragoneatingthemoon!justadragoneatingthemoon@justadragoneatingthemoon.tmi.twitch.tv PRIVMSG #michaelreeves :no you are just seeing things
+11/29/2020 01:55:46 AM Raw: @badge-info=;badges=glitchcon2020/1;color=#2F93D2;display-name=JustADragonEatingTheMoon;emotes=;flags=;id=bb196782-b0ef-4c00-9d6e-d88b4c7ff421;mod=0;room-id=469790580;subscriber=0;tmi-sent-ts=1606636547779;turbo=0;user-id=136685914;user-type= :justadragoneatingthemoon!justadragoneatingthemoon@justadragoneatingthemoon.tmi.twitch.tv PRIVMSG #michaelreeves :no you are just seeing things
+Prefix: justadragoneatingthemoon!justadragoneatingthemoon@justadragoneatingthemoon.tmi.twitch.tv
+Command: PRIVMSG
+Args: ['#michaelreeves', 'no you are just seeing things']
+Tags: {'badge-info': True, 'badges': 'glitchcon2020/1', 'color': '#2F93D2', 'display-name': 'JustADragonEatingTheMoon', 'emotes': True, 'flags': True, 'id': 'bb196782-b0ef-4c00-9d6e-d88b4c7ff421', 'mod': '0', 'room-id': '469790580', 'subscriber': '0', 'tmi-sent-ts': '1606636547779', 'turbo': '0', 'user-id': '136685914', 'user-type': True}
+11/29/2020 01:55:48 AM Raw: PING :tmi.twitch.tv
+Prefix: 
+Command: PING
+Args: ['tmi.twitch.tv']
+Tags: {}
+11/29/2020 01:55:52 AM before: @badge-info=;badges=glitchcon2020/1;color=#2F93D2;display-name=JustADragonEatingTheMoon;emotes=;flags=;id=5a8d0da1-ef18-41a5-8aee-4132d6edf992;mod=0;room-id=469790580;subscriber=0;tmi-sent-ts=1606636554506;turbo=0;user-id=136685914;user-type= :justadragoneatingthemoon!justadragoneatingthemoon@justadragoneatingthemoon.tmi.twitch.tv PRIVMSG #michaelreeves :no one is here
+11/29/2020 01:55:52 AM after : :justadragoneatingthemoon!justadragoneatingthemoon@justadragoneatingthemoon.tmi.twitch.tv PRIVMSG #michaelreeves :no one is here
+11/29/2020 01:55:52 AM Raw: @badge-info=;badges=glitchcon2020/1;color=#2F93D2;display-name=JustADragonEatingTheMoon;emotes=;flags=;id=5a8d0da1-ef18-41a5-8aee-4132d6edf992;mod=0;room-id=469790580;subscriber=0;tmi-sent-ts=1606636554506;turbo=0;user-id=136685914;user-type= :justadragoneatingthemoon!justadragoneatingthemoon@justadragoneatingthemoon.tmi.twitch.tv PRIVMSG #michaelreeves :no one is here
+Prefix: justadragoneatingthemoon!justadragoneatingthemoon@justadragoneatingthemoon.tmi.twitch.tv
+Command: PRIVMSG
+Args: ['#michaelreeves', 'no one is here']
+Tags: {'badge-info': True, 'badges': 'glitchcon2020/1', 'color': '#2F93D2', 'display-name': 'JustADragonEatingTheMoon', 'emotes': True, 'flags': True, 'id': '5a8d0da1-ef18-41a5-8aee-4132d6edf992', 'mod': '0', 'room-id': '469790580', 'subscriber': '0', 'tmi-sent-ts': '1606636554506', 'turbo': '0', 'user-id': '136685914', 'user-type': True}
+11/29/2020 01:56:09 AM before: @badge-info=subscriber/6;badges=moderator/1,subscriber/6,glhf-pledge/1;color=#B22222;display-name=Dimtree22;emotes=;flags=;id=275198ae-920f-492d-b2b2-ffc83209dfad;mod=1;room-id=469790580;subscriber=1;tmi-sent-ts=1606636571424;turbo=0;user-id=77975706;user-type=mod :dimtree22!dimtree22@dimtree22.tmi.twitch.tv PRIVMSG #michaelreeves :Orient
+11/29/2020 01:56:09 AM after : :dimtree22!dimtree22@dimtree22.tmi.twitch.tv PRIVMSG #michaelreeves :Orient
+11/29/2020 01:56:09 AM Raw: @badge-info=subscriber/6;badges=moderator/1,subscriber/6,glhf-pledge/1;color=#B22222;display-name=Dimtree22;emotes=;flags=;id=275198ae-920f-492d-b2b2-ffc83209dfad;mod=1;room-id=469790580;subscriber=1;tmi-sent-ts=1606636571424;turbo=0;user-id=77975706;user-type=mod :dimtree22!dimtree22@dimtree22.tmi.twitch.tv PRIVMSG #michaelreeves :Orient
+Prefix: dimtree22!dimtree22@dimtree22.tmi.twitch.tv
+Command: PRIVMSG
+Args: ['#michaelreeves', 'Orient']
+Tags: {'badge-info': 'subscriber/6', 'badges': 'moderator/1,subscriber/6,glhf-pledge/1', 'color': '#B22222', 'display-name': 'Dimtree22', 'emotes': True, 'flags': True, 'id': '275198ae-920f-492d-b2b2-ffc83209dfad', 'mod': '1', 'room-id': '469790580', 'subscriber': '1', 'tmi-sent-ts': '1606636571424', 'turbo': '0', 'user-id': '77975706', 'user-type': 'mod'}
+11/29/2020 01:56:10 AM before: @badge-info=;badges=glhf-pledge/1;color=#5F9EA0;display-name=ThePositiveBot;emotes=88:56-63;flags=;id=2b67d64c-11f2-43f3-a37d-e746a7c27bc9;mod=0;room-id=469790580;subscriber=0;tmi-sent-ts=1606636571657;turbo=0;user-id=425363834;user-type= :thepositivebot!thepositivebot@thepositivebot.tmi.twitch.tv PRIVMSG #michaelreeves :ACTION [Minigame] dimtree22, you have won the typing challenge PogChamp Congrats! (+1 cookie!) iamsocal
+11/29/2020 01:56:10 AM after : :thepositivebot!thepositivebot@thepositivebot.tmi.twitch.tv PRIVMSG #michaelreeves :ACTION [Minigame] dimtree22, you have won the typing challenge PogChamp Congrats! (+1 cookie!) iamsocal
+11/29/2020 01:56:10 AM Raw: @badge-info=;badges=glhf-pledge/1;color=#5F9EA0;display-name=ThePositiveBot;emotes=88:56-63;flags=;id=2b67d64c-11f2-43f3-a37d-e746a7c27bc9;mod=0;room-id=469790580;subscriber=0;tmi-sent-ts=1606636571657;turbo=0;user-id=425363834;user-type= :thepositivebot!thepositivebot@thepositivebot.tmi.twitch.tv PRIVMSG #michaelreeves :ACTION [Minigame] dimtree22, you have won the typing challenge PogChamp Congrats! (+1 cookie!) iamsocal
+Prefix: thepositivebot!thepositivebot@thepositivebot.tmi.twitch.tv
+Command: PRIVMSG
+Args: ['#michaelreeves', '\x01ACTION [Minigame] dimtree22, you have won the typing challenge PogChamp Congrats! (+1 cookie!) iamsocal\x01']
+Tags: {'badge-info': True, 'badges': 'glhf-pledge/1', 'color': '#5F9EA0', 'display-name': 'ThePositiveBot', 'emotes': '88:56-63', 'flags': True, 'id': '2b67d64c-11f2-43f3-a37d-e746a7c27bc9', 'mod': '0', 'room-id': '469790580', 'subscriber': '0', 'tmi-sent-ts': '1606636571657', 'turbo': '0', 'user-id': '425363834', 'user-type': True}
+11/29/2020 01:56:18 AM before: @badge-info=subscriber/6;badges=moderator/1,subscriber/6,twitchcon2018/1;color=#00CC96;display-name=Tanlere;emotes=;flags=;id=a9dc9789-1bbb-452f-877b-99f8b5bb8b46;mod=1;room-id=469790580;subscriber=1;tmi-sent-ts=1606636580249;turbo=0;user-id=115292820;user-type=mod :tanlere!tanlere@tanlere.tmi.twitch.tv PRIVMSG #michaelreeves :@marcfryd, i keep forgetting you mod for emoney
+11/29/2020 01:56:18 AM after : :tanlere!tanlere@tanlere.tmi.twitch.tv PRIVMSG #michaelreeves :@marcfryd, i keep forgetting you mod for emoney
+11/29/2020 01:56:18 AM Raw: @badge-info=subscriber/6;badges=moderator/1,subscriber/6,twitchcon2018/1;color=#00CC96;display-name=Tanlere;emotes=;flags=;id=a9dc9789-1bbb-452f-877b-99f8b5bb8b46;mod=1;room-id=469790580;subscriber=1;tmi-sent-ts=1606636580249;turbo=0;user-id=115292820;user-type=mod :tanlere!tanlere@tanlere.tmi.twitch.tv PRIVMSG #michaelreeves :@marcfryd, i keep forgetting you mod for emoney
+Prefix: tanlere!tanlere@tanlere.tmi.twitch.tv
+Command: PRIVMSG
+Args: ['#michaelreeves', '@marcfryd, i keep forgetting you mod for emoney']
+Tags: {'badge-info': 'subscriber/6', 'badges': 'moderator/1,subscriber/6,twitchcon2018/1', 'color': '#00CC96', 'display-name': 'Tanlere', 'emotes': True, 'flags': True, 'id': 'a9dc9789-1bbb-452f-877b-99f8b5bb8b46', 'mod': '1', 'room-id': '469790580', 'subscriber': '1', 'tmi-sent-ts': '1606636580249', 'turbo': '0', 'user-id': '115292820', 'user-type': 'mod'}
+11/29/2020 01:56:25 AM before: @badge-info=subscriber/6;badges=moderator/1,subscriber/6,twitchcon2018/1;color=#00CC96;display-name=Tanlere;emotes=;flags=;id=e24f7347-955d-41ab-8486-b8d4f476103e;mod=1;room-id=469790580;subscriber=1;tmi-sent-ts=1606636586908;turbo=0;user-id=115292820;user-type=mod :tanlere!tanlere@tanlere.tmi.twitch.tv PRIVMSG #michaelreeves :😎 WOOOO
+11/29/2020 01:56:25 AM after : :tanlere!tanlere@tanlere.tmi.twitch.tv PRIVMSG #michaelreeves :😎 WOOOO
+11/29/2020 01:56:25 AM Raw: @badge-info=subscriber/6;badges=moderator/1,subscriber/6,twitchcon2018/1;color=#00CC96;display-name=Tanlere;emotes=;flags=;id=e24f7347-955d-41ab-8486-b8d4f476103e;mod=1;room-id=469790580;subscriber=1;tmi-sent-ts=1606636586908;turbo=0;user-id=115292820;user-type=mod :tanlere!tanlere@tanlere.tmi.twitch.tv PRIVMSG #michaelreeves :😎 WOOOO
+Prefix: tanlere!tanlere@tanlere.tmi.twitch.tv
+Command: PRIVMSG
+Args: ['#michaelreeves', '😎 WOOOO']
+Tags: {'badge-info': 'subscriber/6', 'badges': 'moderator/1,subscriber/6,twitchcon2018/1', 'color': '#00CC96', 'display-name': 'Tanlere', 'emotes': True, 'flags': True, 'id': 'e24f7347-955d-41ab-8486-b8d4f476103e', 'mod': '1', 'room-id': '469790580', 'subscriber': '1', 'tmi-sent-ts': '1606636586908', 'turbo': '0', 'user-id': '115292820', 'user-type': 'mod'}
+[2020-11-29 02:10:46,725] [root] [INFO] - test
+[2020-11-29 02:10:47,039] [root] [INFO] - Raw: :tmi.twitch.tv 001 wanductbot :Welcome, GLHF!
+Prefix: tmi.twitch.tv
+Command: 001
+Args: ['wanductbot', 'Welcome, GLHF!']
+Tags: {}
+[2020-11-29 02:10:47,039] [root] [INFO] - Raw: :tmi.twitch.tv 002 wanductbot :Your host is tmi.twitch.tv
+Prefix: tmi.twitch.tv
+Command: 002
+Args: ['wanductbot', 'Your host is tmi.twitch.tv']
+Tags: {}
+[2020-11-29 02:10:47,040] [root] [INFO] - Raw: :tmi.twitch.tv 003 wanductbot :This server is rather new
+Prefix: tmi.twitch.tv
+Command: 003
+Args: ['wanductbot', 'This server is rather new']
+Tags: {}
+[2020-11-29 02:10:47,041] [root] [INFO] - Raw: :tmi.twitch.tv 004 wanductbot :-
+Prefix: tmi.twitch.tv
+Command: 004
+Args: ['wanductbot', '-']
+Tags: {}
+[2020-11-29 02:10:47,042] [root] [INFO] - Raw: :tmi.twitch.tv 375 wanductbot :-
+Prefix: tmi.twitch.tv
+Command: 375
+Args: ['wanductbot', '-']
+Tags: {}
+[2020-11-29 02:10:47,043] [root] [INFO] - Raw: :tmi.twitch.tv 372 wanductbot :You are in a maze of twisty passages, all alike.
+Prefix: tmi.twitch.tv
+Command: 372
+Args: ['wanductbot', 'You are in a maze of twisty passages, all alike.']
+Tags: {}
+[2020-11-29 02:10:47,043] [root] [INFO] - Raw: :tmi.twitch.tv 376 wanductbot :>
+Prefix: tmi.twitch.tv
+Command: 376
+Args: ['wanductbot', '>']
+Tags: {}
+[2020-11-29 02:10:47,109] [root] [INFO] - Raw: :wanductbot!wanductbot@wanductbot.tmi.twitch.tv JOIN #michaelreeves
+Prefix: wanductbot!wanductbot@wanductbot.tmi.twitch.tv
+Command: JOIN
+Args: ['#michaelreeves']
+Tags: {}
+[2020-11-29 02:10:47,111] [root] [INFO] - Raw: :tmi.twitch.tv CAP * ACK :twitch.tv/tags
+Prefix: tmi.twitch.tv
+Command: CAP
+Args: ['*', 'ACK', 'twitch.tv/tags']
+Tags: {}
+[2020-11-29 02:10:47,112] [root] [INFO] - Raw: :wanductbot.tmi.twitch.tv 353 wanductbot = #michaelreeves :wanductbot
+Prefix: wanductbot.tmi.twitch.tv
+Command: 353
+Args: ['wanductbot', '=', '#michaelreeves', 'wanductbot']
+Tags: {}
+[2020-11-29 02:10:47,114] [root] [INFO] - Raw: :wanductbot.tmi.twitch.tv 366 wanductbot #michaelreeves :End of /NAMES list
+Prefix: wanductbot.tmi.twitch.tv
+Command: 366
+Args: ['wanductbot', '#michaelreeves', 'End of /NAMES list']
+Tags: {}
+[2020-11-29 02:13:35,430] [root] [DEBUG] - before: @badge-info=subscriber/6;badges=subscriber/6,bits/50000;color=#7F1616;display-name=jeffboys123;emotes=;flags=;id=377ce1ae-8501-4d26-8e3d-d803a3b688f1;mod=0;room-id=469790580;subscriber=1;tmi-sent-ts=1606637617055;turbo=0;user-id=125906038;user-type= :jeffboys123!jeffboys123@jeffboys123.tmi.twitch.tv PRIVMSG #michaelreeves :!cookie
+[2020-11-29 02:13:35,431] [root] [DEBUG] - after : :jeffboys123!jeffboys123@jeffboys123.tmi.twitch.tv PRIVMSG #michaelreeves :!cookie
+[2020-11-29 02:13:35,432] [root] [INFO] - Raw: @badge-info=subscriber/6;badges=subscriber/6,bits/50000;color=#7F1616;display-name=jeffboys123;emotes=;flags=;id=377ce1ae-8501-4d26-8e3d-d803a3b688f1;mod=0;room-id=469790580;subscriber=1;tmi-sent-ts=1606637617055;turbo=0;user-id=125906038;user-type= :jeffboys123!jeffboys123@jeffboys123.tmi.twitch.tv PRIVMSG #michaelreeves :!cookie
+Prefix: jeffboys123!jeffboys123@jeffboys123.tmi.twitch.tv
+Command: PRIVMSG
+Args: ['#michaelreeves', '!cookie']
+Tags: {'badge-info': 'subscriber/6', 'badges': 'subscriber/6,bits/50000', 'color': '#7F1616', 'display-name': 'jeffboys123', 'emotes': True, 'flags': True, 'id': '377ce1ae-8501-4d26-8e3d-d803a3b688f1', 'mod': '0', 'room-id': '469790580', 'subscriber': '1', 'tmi-sent-ts': '1606637617055', 'turbo': '0', 'user-id': '125906038', 'user-type': True}
+[2020-11-29 02:13:35,698] [root] [DEBUG] - before: @badge-info=;badges=glhf-pledge/1;color=#5F9EA0;display-name=ThePositiveBot;emotes=;flags=;id=83a292f8-e4dc-4867-9ebb-f57c2e35b4de;mod=0;room-id=469790580;subscriber=0;tmi-sent-ts=1606637617266;turbo=0;user-id=425363834;user-type= :thepositivebot!thepositivebot@thepositivebot.tmi.twitch.tv PRIVMSG #michaelreeves :ACTION [Cookies] [P2: default] jeffboys123 you have already claimed a cookie and have 104 of them! 🍪 Please wait in 2 hour intervals!
+[2020-11-29 02:13:35,699] [root] [DEBUG] - after : :thepositivebot!thepositivebot@thepositivebot.tmi.twitch.tv PRIVMSG #michaelreeves :ACTION [Cookies] [P2: default] jeffboys123 you have already claimed a cookie and have 104 of them! 🍪 Please wait in 2 hour intervals!
+[2020-11-29 02:13:35,701] [root] [INFO] - Raw: @badge-info=;badges=glhf-pledge/1;color=#5F9EA0;display-name=ThePositiveBot;emotes=;flags=;id=83a292f8-e4dc-4867-9ebb-f57c2e35b4de;mod=0;room-id=469790580;subscriber=0;tmi-sent-ts=1606637617266;turbo=0;user-id=425363834;user-type= :thepositivebot!thepositivebot@thepositivebot.tmi.twitch.tv PRIVMSG #michaelreeves :ACTION [Cookies] [P2: default] jeffboys123 you have already claimed a cookie and have 104 of them! 🍪 Please wait in 2 hour intervals!
+Prefix: thepositivebot!thepositivebot@thepositivebot.tmi.twitch.tv
+Command: PRIVMSG
+Args: ['#michaelreeves', '\x01ACTION [Cookies] [P2: default] jeffboys123 you have already claimed a cookie and have 104 of them! 🍪 Please wait in 2 hour intervals!\x01']
+Tags: {'badge-info': True, 'badges': 'glhf-pledge/1', 'color': '#5F9EA0', 'display-name': 'ThePositiveBot', 'emotes': True, 'flags': True, 'id': '83a292f8-e4dc-4867-9ebb-f57c2e35b4de', 'mod': '0', 'room-id': '469790580', 'subscriber': '0', 'tmi-sent-ts': '1606637617266', 'turbo': '0', 'user-id': '425363834', 'user-type': True}
+[2020-11-29 02:13:38,177] [root] [DEBUG] - before: @badge-info=;badges=glhf-pledge/1;color=#8A2BE2;display-name=thoren_18;emotes=;flags=;id=3d8970df-77f7-4533-ad22-1f21dede76c5;mod=0;room-id=469790580;subscriber=0;tmi-sent-ts=1606637619812;turbo=0;user-id=415182610;user-type= :thoren_18!thoren_18@thoren_18.tmi.twitch.tv PRIVMSG #michaelreeves :!cookie
+[2020-11-29 02:13:38,178] [root] [DEBUG] - after : :thoren_18!thoren_18@thoren_18.tmi.twitch.tv PRIVMSG #michaelreeves :!cookie
+[2020-11-29 02:13:38,179] [root] [INFO] - Raw: @badge-info=;badges=glhf-pledge/1;color=#8A2BE2;display-name=thoren_18;emotes=;flags=;id=3d8970df-77f7-4533-ad22-1f21dede76c5;mod=0;room-id=469790580;subscriber=0;tmi-sent-ts=1606637619812;turbo=0;user-id=415182610;user-type= :thoren_18!thoren_18@thoren_18.tmi.twitch.tv PRIVMSG #michaelreeves :!cookie
+Prefix: thoren_18!thoren_18@thoren_18.tmi.twitch.tv
+Command: PRIVMSG
+Args: ['#michaelreeves', '!cookie']
+Tags: {'badge-info': True, 'badges': 'glhf-pledge/1', 'color': '#8A2BE2', 'display-name': 'thoren_18', 'emotes': True, 'flags': True, 'id': '3d8970df-77f7-4533-ad22-1f21dede76c5', 'mod': '0', 'room-id': '469790580', 'subscriber': '0', 'tmi-sent-ts': '1606637619812', 'turbo': '0', 'user-id': '415182610', 'user-type': True}
+[2020-11-29 02:13:38,648] [root] [DEBUG] - before: @badge-info=subscriber/6;badges=subscriber/6,bits/50000;color=#7F1616;display-name=jeffboys123;emotes=;flags=;id=1d634a9c-9bad-41e2-a2f9-26bc7935b6d5;mod=0;room-id=469790580;subscriber=1;tmi-sent-ts=1606637620278;turbo=0;user-id=125906038;user-type= :jeffboys123!jeffboys123@jeffboys123.tmi.twitch.tv PRIVMSG #michaelreeves :!cookies
+[2020-11-29 02:13:38,691] [root] [DEBUG] - after : :jeffboys123!jeffboys123@jeffboys123.tmi.twitch.tv PRIVMSG #michaelreeves :!cookies
+[2020-11-29 02:13:38,702] [root] [INFO] - Raw: @badge-info=subscriber/6;badges=subscriber/6,bits/50000;color=#7F1616;display-name=jeffboys123;emotes=;flags=;id=1d634a9c-9bad-41e2-a2f9-26bc7935b6d5;mod=0;room-id=469790580;subscriber=1;tmi-sent-ts=1606637620278;turbo=0;user-id=125906038;user-type= :jeffboys123!jeffboys123@jeffboys123.tmi.twitch.tv PRIVMSG #michaelreeves :!cookies
+Prefix: jeffboys123!jeffboys123@jeffboys123.tmi.twitch.tv
+Command: PRIVMSG
+Args: ['#michaelreeves', '!cookies']
+Tags: {'badge-info': 'subscriber/6', 'badges': 'subscriber/6,bits/50000', 'color': '#7F1616', 'display-name': 'jeffboys123', 'emotes': True, 'flags': True, 'id': '1d634a9c-9bad-41e2-a2f9-26bc7935b6d5', 'mod': '0', 'room-id': '469790580', 'subscriber': '1', 'tmi-sent-ts': '1606637620278', 'turbo': '0', 'user-id': '125906038', 'user-type': True}
+[2020-11-29 02:13:41,614] [root] [DEBUG] - before: @badge-info=subscriber/6;badges=subscriber/6,bits/50000;color=#7F1616;display-name=jeffboys123;emotes=;flags=;id=6bd7ba82-dd55-432d-bebc-eca619e8e3de;mod=0;room-id=469790580;subscriber=1;tmi-sent-ts=1606637623243;turbo=0;user-id=125906038;user-type= :jeffboys123!jeffboys123@jeffboys123.tmi.twitch.tv PRIVMSG #michaelreeves :!cookies 󠀀
+[2020-11-29 02:13:41,614] [root] [DEBUG] - after : :jeffboys123!jeffboys123@jeffboys123.tmi.twitch.tv PRIVMSG #michaelreeves :!cookies 󠀀
+[2020-11-29 02:13:41,616] [root] [INFO] - Raw: @badge-info=subscriber/6;badges=subscriber/6,bits/50000;color=#7F1616;display-name=jeffboys123;emotes=;flags=;id=6bd7ba82-dd55-432d-bebc-eca619e8e3de;mod=0;room-id=469790580;subscriber=1;tmi-sent-ts=1606637623243;turbo=0;user-id=125906038;user-type= :jeffboys123!jeffboys123@jeffboys123.tmi.twitch.tv PRIVMSG #michaelreeves :!cookies 󠀀
+Prefix: jeffboys123!jeffboys123@jeffboys123.tmi.twitch.tv
+Command: PRIVMSG
+Args: ['#michaelreeves', '!cookies \U000e0000']
+Tags: {'badge-info': 'subscriber/6', 'badges': 'subscriber/6,bits/50000', 'color': '#7F1616', 'display-name': 'jeffboys123', 'emotes': True, 'flags': True, 'id': '6bd7ba82-dd55-432d-bebc-eca619e8e3de', 'mod': '0', 'room-id': '469790580', 'subscriber': '1', 'tmi-sent-ts': '1606637623243', 'turbo': '0', 'user-id': '125906038', 'user-type': True}
+[2020-11-29 02:13:42,678] [root] [DEBUG] - before: @badge-info=;badges=glhf-pledge/1;color=#5F9EA0;display-name=ThePositiveBot;emotes=;flags=;id=c95f0f3c-bca8-4b05-826e-1c5505a49827;mod=0;room-id=469790580;subscriber=0;tmi-sent-ts=1606637624239;turbo=0;user-id=425363834;user-type= :thepositivebot!thepositivebot@thepositivebot.tmi.twitch.tv PRIVMSG #michaelreeves :ACTION [Cookies] [P2: default] jeffboys123, you have 104 cookies! 🍪 19 mins, and 51 secs left until you can claim your next cookie!
+[2020-11-29 02:13:42,679] [root] [DEBUG] - after : :thepositivebot!thepositivebot@thepositivebot.tmi.twitch.tv PRIVMSG #michaelreeves :ACTION [Cookies] [P2: default] jeffboys123, you have 104 cookies! 🍪 19 mins, and 51 secs left until you can claim your next cookie!
+[2020-11-29 02:13:42,680] [root] [INFO] - Raw: @badge-info=;badges=glhf-pledge/1;color=#5F9EA0;display-name=ThePositiveBot;emotes=;flags=;id=c95f0f3c-bca8-4b05-826e-1c5505a49827;mod=0;room-id=469790580;subscriber=0;tmi-sent-ts=1606637624239;turbo=0;user-id=425363834;user-type= :thepositivebot!thepositivebot@thepositivebot.tmi.twitch.tv PRIVMSG #michaelreeves :ACTION [Cookies] [P2: default] jeffboys123, you have 104 cookies! 🍪 19 mins, and 51 secs left until you can claim your next cookie!
+Prefix: thepositivebot!thepositivebot@thepositivebot.tmi.twitch.tv
+Command: PRIVMSG
+Args: ['#michaelreeves', '\x01ACTION [Cookies] [P2: default] jeffboys123, you have 104 cookies! 🍪 19 mins, and 51 secs left until you can claim your next cookie!\x01']
+Tags: {'badge-info': True, 'badges': 'glhf-pledge/1', 'color': '#5F9EA0', 'display-name': 'ThePositiveBot', 'emotes': True, 'flags': True, 'id': 'c95f0f3c-bca8-4b05-826e-1c5505a49827', 'mod': '0', 'room-id': '469790580', 'subscriber': '0', 'tmi-sent-ts': '1606637624239', 'turbo': '0', 'user-id': '425363834', 'user-type': True}
+[2020-11-29 02:13:46,637] [root] [DEBUG] - before: @badge-info=;badges=glhf-pledge/1;color=#8A2BE2;display-name=thoren_18;emotes=;flags=;id=b3049b68-9713-4245-bdd7-215bf2711cb5;mod=0;room-id=469790580;subscriber=0;tmi-sent-ts=1606637628281;turbo=0;user-id=415182610;user-type= :thoren_18!thoren_18@thoren_18.tmi.twitch.tv PRIVMSG #michaelreeves :D:
+[2020-11-29 02:13:46,638] [root] [DEBUG] - after : :thoren_18!thoren_18@thoren_18.tmi.twitch.tv PRIVMSG #michaelreeves :D:
+[2020-11-29 02:13:46,639] [root] [INFO] - Raw: @badge-info=;badges=glhf-pledge/1;color=#8A2BE2;display-name=thoren_18;emotes=;flags=;id=b3049b68-9713-4245-bdd7-215bf2711cb5;mod=0;room-id=469790580;subscriber=0;tmi-sent-ts=1606637628281;turbo=0;user-id=415182610;user-type= :thoren_18!thoren_18@thoren_18.tmi.twitch.tv PRIVMSG #michaelreeves :D:
+Prefix: thoren_18!thoren_18@thoren_18.tmi.twitch.tv
+Command: PRIVMSG
+Args: ['#michaelreeves', 'D:']
+Tags: {'badge-info': True, 'badges': 'glhf-pledge/1', 'color': '#8A2BE2', 'display-name': 'thoren_18', 'emotes': True, 'flags': True, 'id': 'b3049b68-9713-4245-bdd7-215bf2711cb5', 'mod': '0', 'room-id': '469790580', 'subscriber': '0', 'tmi-sent-ts': '1606637628281', 'turbo': '0', 'user-id': '415182610', 'user-type': True}
+[2020-11-29 02:13:54,206] [root] [DEBUG] - before: @badge-info=;badges=glhf-pledge/1;color=#8A2BE2;display-name=thoren_18;emotes=;flags=;id=e57e73a2-48a5-4e71-b12d-becfeecdfad8;mod=0;room-id=469790580;subscriber=0;tmi-sent-ts=1606637635853;turbo=0;user-id=415182610;user-type= :thoren_18!thoren_18@thoren_18.tmi.twitch.tv PRIVMSG #michaelreeves :!cookie
+[2020-11-29 02:13:54,208] [root] [DEBUG] - after : :thoren_18!thoren_18@thoren_18.tmi.twitch.tv PRIVMSG #michaelreeves :!cookie
+[2020-11-29 02:13:54,209] [root] [INFO] - Raw: @badge-info=;badges=glhf-pledge/1;color=#8A2BE2;display-name=thoren_18;emotes=;flags=;id=e57e73a2-48a5-4e71-b12d-becfeecdfad8;mod=0;room-id=469790580;subscriber=0;tmi-sent-ts=1606637635853;turbo=0;user-id=415182610;user-type= :thoren_18!thoren_18@thoren_18.tmi.twitch.tv PRIVMSG #michaelreeves :!cookie
+Prefix: thoren_18!thoren_18@thoren_18.tmi.twitch.tv
+Command: PRIVMSG
+Args: ['#michaelreeves', '!cookie']
+Tags: {'badge-info': True, 'badges': 'glhf-pledge/1', 'color': '#8A2BE2', 'display-name': 'thoren_18', 'emotes': True, 'flags': True, 'id': 'e57e73a2-48a5-4e71-b12d-becfeecdfad8', 'mod': '0', 'room-id': '469790580', 'subscriber': '0', 'tmi-sent-ts': '1606637635853', 'turbo': '0', 'user-id': '415182610', 'user-type': True}
+[2020-11-29 02:13:54,505] [root] [DEBUG] - before: @badge-info=;badges=glhf-pledge/1;color=#5F9EA0;display-name=ThePositiveBot;emotes=;flags=;id=0c6cf22b-21e4-4082-8e65-caa5de306344;mod=0;room-id=469790580;subscriber=0;tmi-sent-ts=1606637636094;turbo=0;user-id=425363834;user-type= :thepositivebot!thepositivebot@thepositivebot.tmi.twitch.tv PRIVMSG #michaelreeves :ACTION [Cookies] [default] thoren_18 -> Spiked cookie! (-2) monkaS | 224 total! | 2 hour cooldown... 🍪
+[2020-11-29 02:13:54,507] [root] [DEBUG] - after : :thepositivebot!thepositivebot@thepositivebot.tmi.twitch.tv PRIVMSG #michaelreeves :ACTION [Cookies] [default] thoren_18 -> Spiked cookie! (-2) monkaS | 224 total! | 2 hour cooldown... 🍪
+[2020-11-29 02:13:54,508] [root] [INFO] - Raw: @badge-info=;badges=glhf-pledge/1;color=#5F9EA0;display-name=ThePositiveBot;emotes=;flags=;id=0c6cf22b-21e4-4082-8e65-caa5de306344;mod=0;room-id=469790580;subscriber=0;tmi-sent-ts=1606637636094;turbo=0;user-id=425363834;user-type= :thepositivebot!thepositivebot@thepositivebot.tmi.twitch.tv PRIVMSG #michaelreeves :ACTION [Cookies] [default] thoren_18 -> Spiked cookie! (-2) monkaS | 224 total! | 2 hour cooldown... 🍪
+Prefix: thepositivebot!thepositivebot@thepositivebot.tmi.twitch.tv
+Command: PRIVMSG
+Args: ['#michaelreeves', '\x01ACTION [Cookies] [default] thoren_18 -> Spiked cookie! (-2) monkaS | 224 total! | 2 hour cooldown... 🍪\x01']
+Tags: {'badge-info': True, 'badges': 'glhf-pledge/1', 'color': '#5F9EA0', 'display-name': 'ThePositiveBot', 'emotes': True, 'flags': True, 'id': '0c6cf22b-21e4-4082-8e65-caa5de306344', 'mod': '0', 'room-id': '469790580', 'subscriber': '0', 'tmi-sent-ts': '1606637636094', 'turbo': '0', 'user-id': '425363834', 'user-type': True}
+[2020-11-29 02:13:57,689] [root] [DEBUG] - before: @badge-info=subscriber/6;badges=subscriber/6,bits/50000;color=#7F1616;display-name=jeffboys123;emotes=;flags=;id=f69bda97-6af9-462e-a42c-adcb855b92e2;mod=0;room-id=469790580;subscriber=1;tmi-sent-ts=1606637639321;turbo=0;user-id=125906038;user-type= :jeffboys123!jeffboys123@jeffboys123.tmi.twitch.tv PRIVMSG #michaelreeves :PepeLaugh
+[2020-11-29 02:13:57,690] [root] [DEBUG] - after : :jeffboys123!jeffboys123@jeffboys123.tmi.twitch.tv PRIVMSG #michaelreeves :PepeLaugh
+[2020-11-29 02:13:57,691] [root] [INFO] - Raw: @badge-info=subscriber/6;badges=subscriber/6,bits/50000;color=#7F1616;display-name=jeffboys123;emotes=;flags=;id=f69bda97-6af9-462e-a42c-adcb855b92e2;mod=0;room-id=469790580;subscriber=1;tmi-sent-ts=1606637639321;turbo=0;user-id=125906038;user-type= :jeffboys123!jeffboys123@jeffboys123.tmi.twitch.tv PRIVMSG #michaelreeves :PepeLaugh
+Prefix: jeffboys123!jeffboys123@jeffboys123.tmi.twitch.tv
+Command: PRIVMSG
+Args: ['#michaelreeves', 'PepeLaugh']
+Tags: {'badge-info': 'subscriber/6', 'badges': 'subscriber/6,bits/50000', 'color': '#7F1616', 'display-name': 'jeffboys123', 'emotes': True, 'flags': True, 'id': 'f69bda97-6af9-462e-a42c-adcb855b92e2', 'mod': '0', 'room-id': '469790580', 'subscriber': '1', 'tmi-sent-ts': '1606637639321', 'turbo': '0', 'user-id': '125906038', 'user-type': True}
+[2020-11-29 02:14:07,356] [root] [DEBUG] - before: @badge-info=;badges=glhf-pledge/1;color=#8A2BE2;display-name=thoren_18;emotes=;flags=;id=76470a63-8ec9-45aa-938c-4d85e7101f8c;mod=0;room-id=469790580;subscriber=0;tmi-sent-ts=1606637648997;turbo=0;user-id=415182610;user-type= :thoren_18!thoren_18@thoren_18.tmi.twitch.tv PRIVMSG #michaelreeves :monkaW
+[2020-11-29 02:14:07,358] [root] [DEBUG] - after : :thoren_18!thoren_18@thoren_18.tmi.twitch.tv PRIVMSG #michaelreeves :monkaW
+[2020-11-29 02:14:07,359] [root] [INFO] - Raw: @badge-info=;badges=glhf-pledge/1;color=#8A2BE2;display-name=thoren_18;emotes=;flags=;id=76470a63-8ec9-45aa-938c-4d85e7101f8c;mod=0;room-id=469790580;subscriber=0;tmi-sent-ts=1606637648997;turbo=0;user-id=415182610;user-type= :thoren_18!thoren_18@thoren_18.tmi.twitch.tv PRIVMSG #michaelreeves :monkaW
+Prefix: thoren_18!thoren_18@thoren_18.tmi.twitch.tv
+Command: PRIVMSG
+Args: ['#michaelreeves', 'monkaW']
+Tags: {'badge-info': True, 'badges': 'glhf-pledge/1', 'color': '#8A2BE2', 'display-name': 'thoren_18', 'emotes': True, 'flags': True, 'id': '76470a63-8ec9-45aa-938c-4d85e7101f8c', 'mod': '0', 'room-id': '469790580', 'subscriber': '0', 'tmi-sent-ts': '1606637648997', 'turbo': '0', 'user-id': '415182610', 'user-type': True}
+[2020-11-29 02:14:26,146] [root] [DEBUG] - before: @badge-info=;badges=glhf-pledge/1;color=#8A2BE2;display-name=thoren_18;emotes=;flags=;id=8bcada05-4f07-4841-9b91-d02d9a5b7a96;mod=0;room-id=469790580;subscriber=0;tmi-sent-ts=1606637667777;turbo=0;user-id=415182610;user-type= :thoren_18!thoren_18@thoren_18.tmi.twitch.tv PRIVMSG #michaelreeves :monkaS TeaTime
+[2020-11-29 02:14:26,147] [root] [DEBUG] - after : :thoren_18!thoren_18@thoren_18.tmi.twitch.tv PRIVMSG #michaelreeves :monkaS TeaTime
+[2020-11-29 02:14:26,148] [root] [INFO] - Raw: @badge-info=;badges=glhf-pledge/1;color=#8A2BE2;display-name=thoren_18;emotes=;flags=;id=8bcada05-4f07-4841-9b91-d02d9a5b7a96;mod=0;room-id=469790580;subscriber=0;tmi-sent-ts=1606637667777;turbo=0;user-id=415182610;user-type= :thoren_18!thoren_18@thoren_18.tmi.twitch.tv PRIVMSG #michaelreeves :monkaS TeaTime
+Prefix: thoren_18!thoren_18@thoren_18.tmi.twitch.tv
+Command: PRIVMSG
+Args: ['#michaelreeves', 'monkaS TeaTime']
+Tags: {'badge-info': True, 'badges': 'glhf-pledge/1', 'color': '#8A2BE2', 'display-name': 'thoren_18', 'emotes': True, 'flags': True, 'id': '8bcada05-4f07-4841-9b91-d02d9a5b7a96', 'mod': '0', 'room-id': '469790580', 'subscriber': '0', 'tmi-sent-ts': '1606637667777', 'turbo': '0', 'user-id': '415182610', 'user-type': True}
+[2020-11-29 02:14:37,515] [root] [DEBUG] - before: @badge-info=;badges=glitchcon2020/1;color=#2F93D2;display-name=JustADragonEatingTheMoon;emotes=1405594:25-31;flags=;id=f58ee0c3-420e-4bb3-afd7-1f8b402be7c4;mod=0;room-id=469790580;subscriber=0;tmi-sent-ts=1606637679130;turbo=0;user-id=136685914;user-type= :justadragoneatingthemoon!justadragoneatingthemoon@justadragoneatingthemoon.tmi.twitch.tv PRIVMSG #michaelreeves :should i collect cookies lilyHmm
+[2020-11-29 02:14:37,516] [root] [DEBUG] - after : :justadragoneatingthemoon!justadragoneatingthemoon@justadragoneatingthemoon.tmi.twitch.tv PRIVMSG #michaelreeves :should i collect cookies lilyHmm
+[2020-11-29 02:14:37,517] [root] [INFO] - Raw: @badge-info=;badges=glitchcon2020/1;color=#2F93D2;display-name=JustADragonEatingTheMoon;emotes=1405594:25-31;flags=;id=f58ee0c3-420e-4bb3-afd7-1f8b402be7c4;mod=0;room-id=469790580;subscriber=0;tmi-sent-ts=1606637679130;turbo=0;user-id=136685914;user-type= :justadragoneatingthemoon!justadragoneatingthemoon@justadragoneatingthemoon.tmi.twitch.tv PRIVMSG #michaelreeves :should i collect cookies lilyHmm
+Prefix: justadragoneatingthemoon!justadragoneatingthemoon@justadragoneatingthemoon.tmi.twitch.tv
+Command: PRIVMSG
+Args: ['#michaelreeves', 'should i collect cookies lilyHmm']
+Tags: {'badge-info': True, 'badges': 'glitchcon2020/1', 'color': '#2F93D2', 'display-name': 'JustADragonEatingTheMoon', 'emotes': '1405594:25-31', 'flags': True, 'id': 'f58ee0c3-420e-4bb3-afd7-1f8b402be7c4', 'mod': '0', 'room-id': '469790580', 'subscriber': '0', 'tmi-sent-ts': '1606637679130', 'turbo': '0', 'user-id': '136685914', 'user-type': True}
+[2020-11-29 02:14:43,559] [root] [DEBUG] - before: @badge-info=subscriber/6;badges=subscriber/6,bits/50000;color=#7F1616;display-name=jeffboys123;emotes=;flags=;id=df79640c-eae7-4462-8cd7-c9e016123843;mod=0;room-id=469790580;subscriber=1;tmi-sent-ts=1606637685178;turbo=0;user-id=125906038;user-type= :jeffboys123!jeffboys123@jeffboys123.tmi.twitch.tv PRIVMSG #michaelreeves :YEP
+[2020-11-29 02:14:43,559] [root] [DEBUG] - after : :jeffboys123!jeffboys123@jeffboys123.tmi.twitch.tv PRIVMSG #michaelreeves :YEP
+[2020-11-29 02:14:43,560] [root] [INFO] - Raw: @badge-info=subscriber/6;badges=subscriber/6,bits/50000;color=#7F1616;display-name=jeffboys123;emotes=;flags=;id=df79640c-eae7-4462-8cd7-c9e016123843;mod=0;room-id=469790580;subscriber=1;tmi-sent-ts=1606637685178;turbo=0;user-id=125906038;user-type= :jeffboys123!jeffboys123@jeffboys123.tmi.twitch.tv PRIVMSG #michaelreeves :YEP
+Prefix: jeffboys123!jeffboys123@jeffboys123.tmi.twitch.tv
+Command: PRIVMSG
+Args: ['#michaelreeves', 'YEP']
+Tags: {'badge-info': 'subscriber/6', 'badges': 'subscriber/6,bits/50000', 'color': '#7F1616', 'display-name': 'jeffboys123', 'emotes': True, 'flags': True, 'id': 'df79640c-eae7-4462-8cd7-c9e016123843', 'mod': '0', 'room-id': '469790580', 'subscriber': '1', 'tmi-sent-ts': '1606637685178', 'turbo': '0', 'user-id': '125906038', 'user-type': True}
+[2020-11-29 02:14:48,713] [root] [DEBUG] - before: @badge-info=subscriber/6;badges=subscriber/6,glitchcon2020/1;color=#FF69B4;display-name=CODwaffles01;emote-only=1;emotes=301096723:0-8;flags=;id=9552bc0b-2f93-4731-815f-d497404b603b;mod=0;room-id=469790580;subscriber=1;tmi-sent-ts=1606637689758;turbo=0;user-id=460201537;user-type= :codwaffles01!codwaffles01@codwaffles01.tmi.twitch.tv PRIVMSG #michaelreeves :lilyShrug
+[2020-11-29 02:14:48,714] [root] [DEBUG] - after : :codwaffles01!codwaffles01@codwaffles01.tmi.twitch.tv PRIVMSG #michaelreeves :lilyShrug
+[2020-11-29 02:14:48,718] [root] [INFO] - Raw: @badge-info=subscriber/6;badges=subscriber/6,glitchcon2020/1;color=#FF69B4;display-name=CODwaffles01;emote-only=1;emotes=301096723:0-8;flags=;id=9552bc0b-2f93-4731-815f-d497404b603b;mod=0;room-id=469790580;subscriber=1;tmi-sent-ts=1606637689758;turbo=0;user-id=460201537;user-type= :codwaffles01!codwaffles01@codwaffles01.tmi.twitch.tv PRIVMSG #michaelreeves :lilyShrug
+Prefix: codwaffles01!codwaffles01@codwaffles01.tmi.twitch.tv
+Command: PRIVMSG
+Args: ['#michaelreeves', 'lilyShrug']
+Tags: {'badge-info': 'subscriber/6', 'badges': 'subscriber/6,glitchcon2020/1', 'color': '#FF69B4', 'display-name': 'CODwaffles01', 'emote-only': '1', 'emotes': '301096723:0-8', 'flags': True, 'id': '9552bc0b-2f93-4731-815f-d497404b603b', 'mod': '0', 'room-id': '469790580', 'subscriber': '1', 'tmi-sent-ts': '1606637689758', 'turbo': '0', 'user-id': '460201537', 'user-type': True}
+[2020-11-29 02:14:48,960] [root] [DEBUG] - before: @badge-info=;badges=glhf-pledge/1;color=#8A2BE2;display-name=thoren_18;emotes=;flags=4-7:P.6/S.6;id=49d21472-d016-47dd-a670-34052b8f250f;mod=0;room-id=469790580;subscriber=0;tmi-sent-ts=1606637690610;turbo=0;user-id=415182610;user-type= :thoren_18!thoren_18@thoren_18.tmi.twitch.tv PRIVMSG #michaelreeves :YEP COCK
+[2020-11-29 02:14:48,961] [root] [DEBUG] - after : :thoren_18!thoren_18@thoren_18.tmi.twitch.tv PRIVMSG #michaelreeves :YEP COCK
+[2020-11-29 02:14:48,963] [root] [INFO] - Raw: @badge-info=;badges=glhf-pledge/1;color=#8A2BE2;display-name=thoren_18;emotes=;flags=4-7:P.6/S.6;id=49d21472-d016-47dd-a670-34052b8f250f;mod=0;room-id=469790580;subscriber=0;tmi-sent-ts=1606637690610;turbo=0;user-id=415182610;user-type= :thoren_18!thoren_18@thoren_18.tmi.twitch.tv PRIVMSG #michaelreeves :YEP COCK
+Prefix: thoren_18!thoren_18@thoren_18.tmi.twitch.tv
+Command: PRIVMSG
+Args: ['#michaelreeves', 'YEP COCK']
+Tags: {'badge-info': True, 'badges': 'glhf-pledge/1', 'color': '#8A2BE2', 'display-name': 'thoren_18', 'emotes': True, 'flags': '4-7:P.6/S.6', 'id': '49d21472-d016-47dd-a670-34052b8f250f', 'mod': '0', 'room-id': '469790580', 'subscriber': '0', 'tmi-sent-ts': '1606637690610', 'turbo': '0', 'user-id': '415182610', 'user-type': True}
+[2020-11-29 02:14:49,026] [root] [DEBUG] - before: @badge-info=subscriber/6;badges=moderator/1,subscriber/6,glhf-pledge/1;color=#B22222;display-name=Dimtree22;emotes=;flags=;id=cdb15e3d-bbc2-4f95-9612-2a4f5e3c0afe;mod=1;room-id=469790580;subscriber=1;tmi-sent-ts=1606637690612;turbo=0;user-id=77975706;user-type=mod :dimtree22!dimtree22@dimtree22.tmi.twitch.tv PRIVMSG #michaelreeves :YEP
+[2020-11-29 02:14:49,027] [root] [DEBUG] - after : :dimtree22!dimtree22@dimtree22.tmi.twitch.tv PRIVMSG #michaelreeves :YEP
+[2020-11-29 02:14:49,029] [root] [INFO] - Raw: @badge-info=subscriber/6;badges=moderator/1,subscriber/6,glhf-pledge/1;color=#B22222;display-name=Dimtree22;emotes=;flags=;id=cdb15e3d-bbc2-4f95-9612-2a4f5e3c0afe;mod=1;room-id=469790580;subscriber=1;tmi-sent-ts=1606637690612;turbo=0;user-id=77975706;user-type=mod :dimtree22!dimtree22@dimtree22.tmi.twitch.tv PRIVMSG #michaelreeves :YEP
+Prefix: dimtree22!dimtree22@dimtree22.tmi.twitch.tv
+Command: PRIVMSG
+Args: ['#michaelreeves', 'YEP']
+Tags: {'badge-info': 'subscriber/6', 'badges': 'moderator/1,subscriber/6,glhf-pledge/1', 'color': '#B22222', 'display-name': 'Dimtree22', 'emotes': True, 'flags': True, 'id': 'cdb15e3d-bbc2-4f95-9612-2a4f5e3c0afe', 'mod': '1', 'room-id': '469790580', 'subscriber': '1', 'tmi-sent-ts': '1606637690612', 'turbo': '0', 'user-id': '77975706', 'user-type': 'mod'}
+[2020-11-29 02:14:50,554] [root] [DEBUG] - before: @badge-info=subscriber/6;badges=subscriber/6,bits/50000;color=#7F1616;display-name=jeffboys123;emotes=;flags=;id=a83da1d0-00b8-4cd3-87a5-4934b435f3da;mod=0;room-id=469790580;subscriber=1;tmi-sent-ts=1606637692176;turbo=0;user-id=125906038;user-type= :jeffboys123!jeffboys123@jeffboys123.tmi.twitch.tv PRIVMSG #michaelreeves :!cookies @JustADragonEatingTheMoon,
+[2020-11-29 02:14:50,555] [root] [DEBUG] - after : :jeffboys123!jeffboys123@jeffboys123.tmi.twitch.tv PRIVMSG #michaelreeves :!cookies @JustADragonEatingTheMoon,
+[2020-11-29 02:14:50,556] [root] [INFO] - Raw: @badge-info=subscriber/6;badges=subscriber/6,bits/50000;color=#7F1616;display-name=jeffboys123;emotes=;flags=;id=a83da1d0-00b8-4cd3-87a5-4934b435f3da;mod=0;room-id=469790580;subscriber=1;tmi-sent-ts=1606637692176;turbo=0;user-id=125906038;user-type= :jeffboys123!jeffboys123@jeffboys123.tmi.twitch.tv PRIVMSG #michaelreeves :!cookies @JustADragonEatingTheMoon,
+Prefix: jeffboys123!jeffboys123@jeffboys123.tmi.twitch.tv
+Command: PRIVMSG
+Args: ['#michaelreeves', '!cookies @JustADragonEatingTheMoon,']
+Tags: {'badge-info': 'subscriber/6', 'badges': 'subscriber/6,bits/50000', 'color': '#7F1616', 'display-name': 'jeffboys123', 'emotes': True, 'flags': True, 'id': 'a83da1d0-00b8-4cd3-87a5-4934b435f3da', 'mod': '0', 'room-id': '469790580', 'subscriber': '1', 'tmi-sent-ts': '1606637692176', 'turbo': '0', 'user-id': '125906038', 'user-type': True}
+[2020-11-29 02:14:51,260] [root] [DEBUG] - before: @badge-info=;badges=glhf-pledge/1;color=#5F9EA0;display-name=ThePositiveBot;emotes=;flags=;id=a1829765-5d6c-4961-817e-5ca9c16a0ecc;mod=0;room-id=469790580;subscriber=0;tmi-sent-ts=1606637692871;turbo=0;user-id=425363834;user-type= :thepositivebot!thepositivebot@thepositivebot.tmi.twitch.tv PRIVMSG #michaelreeves :ACTION [Cookies] @JustADragonEatingTheMoon,, something went wrong while getting cookie information.
+[2020-11-29 02:14:51,261] [root] [DEBUG] - after : :thepositivebot!thepositivebot@thepositivebot.tmi.twitch.tv PRIVMSG #michaelreeves :ACTION [Cookies] @JustADragonEatingTheMoon,, something went wrong while getting cookie information.
+[2020-11-29 02:14:51,262] [root] [INFO] - Raw: @badge-info=;badges=glhf-pledge/1;color=#5F9EA0;display-name=ThePositiveBot;emotes=;flags=;id=a1829765-5d6c-4961-817e-5ca9c16a0ecc;mod=0;room-id=469790580;subscriber=0;tmi-sent-ts=1606637692871;turbo=0;user-id=425363834;user-type= :thepositivebot!thepositivebot@thepositivebot.tmi.twitch.tv PRIVMSG #michaelreeves :ACTION [Cookies] @JustADragonEatingTheMoon,, something went wrong while getting cookie information.
+Prefix: thepositivebot!thepositivebot@thepositivebot.tmi.twitch.tv
+Command: PRIVMSG
+Args: ['#michaelreeves', '\x01ACTION [Cookies] @JustADragonEatingTheMoon,, something went wrong while getting cookie information.\x01']
+Tags: {'badge-info': True, 'badges': 'glhf-pledge/1', 'color': '#5F9EA0', 'display-name': 'ThePositiveBot', 'emotes': True, 'flags': True, 'id': 'a1829765-5d6c-4961-817e-5ca9c16a0ecc', 'mod': '0', 'room-id': '469790580', 'subscriber': '0', 'tmi-sent-ts': '1606637692871', 'turbo': '0', 'user-id': '425363834', 'user-type': True}
+[2020-11-29 02:14:55,403] [root] [DEBUG] - before: @badge-info=subscriber/6;badges=subscriber/6,bits/50000;color=#7F1616;display-name=jeffboys123;emotes=;flags=;id=3d8b1d60-b258-4d40-94c3-f70815a3c13a;mod=0;room-id=469790580;subscriber=1;tmi-sent-ts=1606637696995;turbo=0;user-id=125906038;user-type= :jeffboys123!jeffboys123@jeffboys123.tmi.twitch.tv PRIVMSG #michaelreeves :!cookies JustADragonEatingTheMoon,
+[2020-11-29 02:14:55,404] [root] [DEBUG] - after : :jeffboys123!jeffboys123@jeffboys123.tmi.twitch.tv PRIVMSG #michaelreeves :!cookies JustADragonEatingTheMoon,
+[2020-11-29 02:14:55,405] [root] [INFO] - Raw: @badge-info=subscriber/6;badges=subscriber/6,bits/50000;color=#7F1616;display-name=jeffboys123;emotes=;flags=;id=3d8b1d60-b258-4d40-94c3-f70815a3c13a;mod=0;room-id=469790580;subscriber=1;tmi-sent-ts=1606637696995;turbo=0;user-id=125906038;user-type= :jeffboys123!jeffboys123@jeffboys123.tmi.twitch.tv PRIVMSG #michaelreeves :!cookies JustADragonEatingTheMoon,
+Prefix: jeffboys123!jeffboys123@jeffboys123.tmi.twitch.tv
+Command: PRIVMSG
+Args: ['#michaelreeves', '!cookies JustADragonEatingTheMoon,']
+Tags: {'badge-info': 'subscriber/6', 'badges': 'subscriber/6,bits/50000', 'color': '#7F1616', 'display-name': 'jeffboys123', 'emotes': True, 'flags': True, 'id': '3d8b1d60-b258-4d40-94c3-f70815a3c13a', 'mod': '0', 'room-id': '469790580', 'subscriber': '1', 'tmi-sent-ts': '1606637696995', 'turbo': '0', 'user-id': '125906038', 'user-type': True}
+[2020-11-29 02:14:59,731] [root] [DEBUG] - before: @badge-info=subscriber/6;badges=subscriber/6,bits/50000;color=#7F1616;display-name=jeffboys123;emotes=;flags=;id=2a2c3b04-4624-4e99-aa7d-17cc40169536;mod=0;room-id=469790580;subscriber=1;tmi-sent-ts=1606637701330;turbo=0;user-id=125906038;user-type= :jeffboys123!jeffboys123@jeffboys123.tmi.twitch.tv PRIVMSG #michaelreeves :!cookies JustADragonEatingTheMoon
+[2020-11-29 02:14:59,732] [root] [DEBUG] - after : :jeffboys123!jeffboys123@jeffboys123.tmi.twitch.tv PRIVMSG #michaelreeves :!cookies JustADragonEatingTheMoon
+[2020-11-29 02:14:59,734] [root] [INFO] - Raw: @badge-info=subscriber/6;badges=subscriber/6,bits/50000;color=#7F1616;display-name=jeffboys123;emotes=;flags=;id=2a2c3b04-4624-4e99-aa7d-17cc40169536;mod=0;room-id=469790580;subscriber=1;tmi-sent-ts=1606637701330;turbo=0;user-id=125906038;user-type= :jeffboys123!jeffboys123@jeffboys123.tmi.twitch.tv PRIVMSG #michaelreeves :!cookies JustADragonEatingTheMoon
+Prefix: jeffboys123!jeffboys123@jeffboys123.tmi.twitch.tv
+Command: PRIVMSG
+Args: ['#michaelreeves', '!cookies JustADragonEatingTheMoon']
+Tags: {'badge-info': 'subscriber/6', 'badges': 'subscriber/6,bits/50000', 'color': '#7F1616', 'display-name': 'jeffboys123', 'emotes': True, 'flags': True, 'id': '2a2c3b04-4624-4e99-aa7d-17cc40169536', 'mod': '0', 'room-id': '469790580', 'subscriber': '1', 'tmi-sent-ts': '1606637701330', 'turbo': '0', 'user-id': '125906038', 'user-type': True}
+[2020-11-29 02:15:00,762] [root] [DEBUG] - before: @badge-info=;badges=glhf-pledge/1;color=#5F9EA0;display-name=ThePositiveBot;emotes=;flags=;id=752140db-5b65-4a48-9593-f14bac176ebd;mod=0;room-id=469790580;subscriber=0;tmi-sent-ts=1606637702314;turbo=0;user-id=425363834;user-type= :thepositivebot!thepositivebot@thepositivebot.tmi.twitch.tv PRIVMSG #michaelreeves :ACTION [Cookies] JustADragonEatingTheMoon, you are a new user with no cookies! FeelsBadMan Do !cookie to claim your first 10 cookies 🍪!
+[2020-11-29 02:15:00,764] [root] [DEBUG] - after : :thepositivebot!thepositivebot@thepositivebot.tmi.twitch.tv PRIVMSG #michaelreeves :ACTION [Cookies] JustADragonEatingTheMoon, you are a new user with no cookies! FeelsBadMan Do !cookie to claim your first 10 cookies 🍪!
+[2020-11-29 02:15:00,768] [root] [INFO] - Raw: @badge-info=;badges=glhf-pledge/1;color=#5F9EA0;display-name=ThePositiveBot;emotes=;flags=;id=752140db-5b65-4a48-9593-f14bac176ebd;mod=0;room-id=469790580;subscriber=0;tmi-sent-ts=1606637702314;turbo=0;user-id=425363834;user-type= :thepositivebot!thepositivebot@thepositivebot.tmi.twitch.tv PRIVMSG #michaelreeves :ACTION [Cookies] JustADragonEatingTheMoon, you are a new user with no cookies! FeelsBadMan Do !cookie to claim your first 10 cookies 🍪!
+Prefix: thepositivebot!thepositivebot@thepositivebot.tmi.twitch.tv
+Command: PRIVMSG
+Args: ['#michaelreeves', '\x01ACTION [Cookies] JustADragonEatingTheMoon, you are a new user with no cookies! FeelsBadMan Do !cookie to claim your first 10 cookies 🍪!\x01']
+Tags: {'badge-info': True, 'badges': 'glhf-pledge/1', 'color': '#5F9EA0', 'display-name': 'ThePositiveBot', 'emotes': True, 'flags': True, 'id': '752140db-5b65-4a48-9593-f14bac176ebd', 'mod': '0', 'room-id': '469790580', 'subscriber': '0', 'tmi-sent-ts': '1606637702314', 'turbo': '0', 'user-id': '425363834', 'user-type': True}
+[2020-11-29 02:15:12,488] [root] [DEBUG] - before: @badge-info=;badges=glitchcon2020/1;color=#2F93D2;display-name=JustADragonEatingTheMoon;emotes=;flags=;id=3356931a-bbc0-40b3-bd48-d743c759fdad;mod=0;room-id=469790580;subscriber=0;tmi-sent-ts=1606637714116;turbo=0;user-id=136685914;user-type= :justadragoneatingthemoon!justadragoneatingthemoon@justadragoneatingthemoon.tmi.twitch.tv PRIVMSG #michaelreeves :guess i dont have a choice any more
+[2020-11-29 02:15:12,488] [root] [DEBUG] - after : :justadragoneatingthemoon!justadragoneatingthemoon@justadragoneatingthemoon.tmi.twitch.tv PRIVMSG #michaelreeves :guess i dont have a choice any more
+[2020-11-29 02:15:12,489] [root] [INFO] - Raw: @badge-info=;badges=glitchcon2020/1;color=#2F93D2;display-name=JustADragonEatingTheMoon;emotes=;flags=;id=3356931a-bbc0-40b3-bd48-d743c759fdad;mod=0;room-id=469790580;subscriber=0;tmi-sent-ts=1606637714116;turbo=0;user-id=136685914;user-type= :justadragoneatingthemoon!justadragoneatingthemoon@justadragoneatingthemoon.tmi.twitch.tv PRIVMSG #michaelreeves :guess i dont have a choice any more
+Prefix: justadragoneatingthemoon!justadragoneatingthemoon@justadragoneatingthemoon.tmi.twitch.tv
+Command: PRIVMSG
+Args: ['#michaelreeves', 'guess i dont have a choice any more']
+Tags: {'badge-info': True, 'badges': 'glitchcon2020/1', 'color': '#2F93D2', 'display-name': 'JustADragonEatingTheMoon', 'emotes': True, 'flags': True, 'id': '3356931a-bbc0-40b3-bd48-d743c759fdad', 'mod': '0', 'room-id': '469790580', 'subscriber': '0', 'tmi-sent-ts': '1606637714116', 'turbo': '0', 'user-id': '136685914', 'user-type': True}
+[2020-11-29 02:15:25,153] [root] [DEBUG] - before: @badge-info=;badges=glitchcon2020/1;color=#2F93D2;display-name=JustADragonEatingTheMoon;emotes=;flags=;id=d63b6827-933d-4e06-8e7c-11d2bcbc4f6c;mod=0;room-id=469790580;subscriber=0;tmi-sent-ts=1606637726780;turbo=0;user-id=136685914;user-type= :justadragoneatingthemoon!justadragoneatingthemoon@justadragoneatingthemoon.tmi.twitch.tv PRIVMSG #michaelreeves :!cookie
+[2020-11-29 02:15:25,154] [root] [DEBUG] - after : :justadragoneatingthemoon!justadragoneatingthemoon@justadragoneatingthemoon.tmi.twitch.tv PRIVMSG #michaelreeves :!cookie
+[2020-11-29 02:15:25,155] [root] [INFO] - Raw: @badge-info=;badges=glitchcon2020/1;color=#2F93D2;display-name=JustADragonEatingTheMoon;emotes=;flags=;id=d63b6827-933d-4e06-8e7c-11d2bcbc4f6c;mod=0;room-id=469790580;subscriber=0;tmi-sent-ts=1606637726780;turbo=0;user-id=136685914;user-type= :justadragoneatingthemoon!justadragoneatingthemoon@justadragoneatingthemoon.tmi.twitch.tv PRIVMSG #michaelreeves :!cookie
+Prefix: justadragoneatingthemoon!justadragoneatingthemoon@justadragoneatingthemoon.tmi.twitch.tv
+Command: PRIVMSG
+Args: ['#michaelreeves', '!cookie']
+Tags: {'badge-info': True, 'badges': 'glitchcon2020/1', 'color': '#2F93D2', 'display-name': 'JustADragonEatingTheMoon', 'emotes': True, 'flags': True, 'id': 'd63b6827-933d-4e06-8e7c-11d2bcbc4f6c', 'mod': '0', 'room-id': '469790580', 'subscriber': '0', 'tmi-sent-ts': '1606637726780', 'turbo': '0', 'user-id': '136685914', 'user-type': True}
+[2020-11-29 02:15:25,446] [root] [DEBUG] - before: @badge-info=;badges=glhf-pledge/1;color=#5F9EA0;display-name=ThePositiveBot;emotes=1:137-138;flags=;id=299a5ef6-324f-447c-8396-2f1d10548be7;mod=0;room-id=469790580;subscriber=0;tmi-sent-ts=1606637726988;turbo=0;user-id=425363834;user-type= :thepositivebot!thepositivebot@thepositivebot.tmi.twitch.tv PRIVMSG #michaelreeves :ACTION [Cookies] justadragoneatingthemoon, you are a new user! Here's your first 10 cookies, 🍪 use this command every 2 hours to get some more! :)
+[2020-11-29 02:15:25,447] [root] [DEBUG] - after : :thepositivebot!thepositivebot@thepositivebot.tmi.twitch.tv PRIVMSG #michaelreeves :ACTION [Cookies] justadragoneatingthemoon, you are a new user! Here's your first 10 cookies, 🍪 use this command every 2 hours to get some more! :)
+[2020-11-29 02:15:25,448] [root] [INFO] - Raw: @badge-info=;badges=glhf-pledge/1;color=#5F9EA0;display-name=ThePositiveBot;emotes=1:137-138;flags=;id=299a5ef6-324f-447c-8396-2f1d10548be7;mod=0;room-id=469790580;subscriber=0;tmi-sent-ts=1606637726988;turbo=0;user-id=425363834;user-type= :thepositivebot!thepositivebot@thepositivebot.tmi.twitch.tv PRIVMSG #michaelreeves :ACTION [Cookies] justadragoneatingthemoon, you are a new user! Here's your first 10 cookies, 🍪 use this command every 2 hours to get some more! :)
+Prefix: thepositivebot!thepositivebot@thepositivebot.tmi.twitch.tv
+Command: PRIVMSG
+Args: ['#michaelreeves', "\x01ACTION [Cookies] justadragoneatingthemoon, you are a new user! Here's your first 10 cookies, 🍪 use this command every 2 hours to get some more! :)\x01"]
+Tags: {'badge-info': True, 'badges': 'glhf-pledge/1', 'color': '#5F9EA0', 'display-name': 'ThePositiveBot', 'emotes': '1:137-138', 'flags': True, 'id': '299a5ef6-324f-447c-8396-2f1d10548be7', 'mod': '0', 'room-id': '469790580', 'subscriber': '0', 'tmi-sent-ts': '1606637726988', 'turbo': '0', 'user-id': '425363834', 'user-type': True}
+[2020-11-29 02:15:31,359] [root] [DEBUG] - before: @badge-info=subscriber/6;badges=subscriber/6,bits/50000;color=#7F1616;display-name=jeffboys123;emotes=;flags=;id=b5e88366-5eea-4add-86c9-f882263e14d2;mod=0;room-id=469790580;subscriber=1;tmi-sent-ts=1606637732992;turbo=0;user-id=125906038;user-type= :jeffboys123!jeffboys123@jeffboys123.tmi.twitch.tv PRIVMSG #michaelreeves :PogU
+[2020-11-29 02:15:31,359] [root] [DEBUG] - after : :jeffboys123!jeffboys123@jeffboys123.tmi.twitch.tv PRIVMSG #michaelreeves :PogU
+[2020-11-29 02:15:31,361] [root] [INFO] - Raw: @badge-info=subscriber/6;badges=subscriber/6,bits/50000;color=#7F1616;display-name=jeffboys123;emotes=;flags=;id=b5e88366-5eea-4add-86c9-f882263e14d2;mod=0;room-id=469790580;subscriber=1;tmi-sent-ts=1606637732992;turbo=0;user-id=125906038;user-type= :jeffboys123!jeffboys123@jeffboys123.tmi.twitch.tv PRIVMSG #michaelreeves :PogU
+Prefix: jeffboys123!jeffboys123@jeffboys123.tmi.twitch.tv
+Command: PRIVMSG
+Args: ['#michaelreeves', 'PogU']
+Tags: {'badge-info': 'subscriber/6', 'badges': 'subscriber/6,bits/50000', 'color': '#7F1616', 'display-name': 'jeffboys123', 'emotes': True, 'flags': True, 'id': 'b5e88366-5eea-4add-86c9-f882263e14d2', 'mod': '0', 'room-id': '469790580', 'subscriber': '1', 'tmi-sent-ts': '1606637732992', 'turbo': '0', 'user-id': '125906038', 'user-type': True}
+[2020-11-29 02:15:46,734] [root] [INFO] - Raw: PING :tmi.twitch.tv
+Prefix: 
+Command: PING
+Args: ['tmi.twitch.tv']
+Tags: {}
+[2020-11-29 02:16:00,717] [root] [DEBUG] - before: @badge-info=subscriber/5;badges=moderator/1,subscriber/3,bits/1;color=#B1FCDF;display-name=QuinnDT;emotes=;flags=;id=5a8a83e9-5dd1-419c-a1e7-fb253ab5121c;mod=1;room-id=469790580;subscriber=1;tmi-sent-ts=1606637762318;turbo=0;user-id=440674731;user-type=mod :quinndt!quinndt@quinndt.tmi.twitch.tv PRIVMSG #michaelreeves :HACKERMANS chat watch out!
+[2020-11-29 02:16:00,717] [root] [DEBUG] - after : :quinndt!quinndt@quinndt.tmi.twitch.tv PRIVMSG #michaelreeves :HACKERMANS chat watch out!
+[2020-11-29 02:16:00,719] [root] [INFO] - Raw: @badge-info=subscriber/5;badges=moderator/1,subscriber/3,bits/1;color=#B1FCDF;display-name=QuinnDT;emotes=;flags=;id=5a8a83e9-5dd1-419c-a1e7-fb253ab5121c;mod=1;room-id=469790580;subscriber=1;tmi-sent-ts=1606637762318;turbo=0;user-id=440674731;user-type=mod :quinndt!quinndt@quinndt.tmi.twitch.tv PRIVMSG #michaelreeves :HACKERMANS chat watch out!
+Prefix: quinndt!quinndt@quinndt.tmi.twitch.tv
+Command: PRIVMSG
+Args: ['#michaelreeves', 'HACKERMANS chat watch out!']
+Tags: {'badge-info': 'subscriber/5', 'badges': 'moderator/1,subscriber/3,bits/1', 'color': '#B1FCDF', 'display-name': 'QuinnDT', 'emotes': True, 'flags': True, 'id': '5a8a83e9-5dd1-419c-a1e7-fb253ab5121c', 'mod': '1', 'room-id': '469790580', 'subscriber': '1', 'tmi-sent-ts': '1606637762318', 'turbo': '0', 'user-id': '440674731', 'user-type': 'mod'}
+[2020-11-29 02:16:35,994] [root] [DEBUG] - before: @badge-info=subscriber/5;badges=moderator/1,subscriber/3,bits/1;color=#B1FCDF;display-name=QuinnDT;emotes=;flags=;id=f9f04116-c3a6-4f9c-855d-baa8823cdeb0;mod=1;room-id=469790580;subscriber=1;tmi-sent-ts=1606637797617;turbo=0;user-id=440674731;user-type=mod :quinndt!quinndt@quinndt.tmi.twitch.tv PRIVMSG #michaelreeves :!cookie moon3g
+[2020-11-29 02:16:35,995] [root] [DEBUG] - after : :quinndt!quinndt@quinndt.tmi.twitch.tv PRIVMSG #michaelreeves :!cookie moon3g
+[2020-11-29 02:16:35,996] [root] [INFO] - Raw: @badge-info=subscriber/5;badges=moderator/1,subscriber/3,bits/1;color=#B1FCDF;display-name=QuinnDT;emotes=;flags=;id=f9f04116-c3a6-4f9c-855d-baa8823cdeb0;mod=1;room-id=469790580;subscriber=1;tmi-sent-ts=1606637797617;turbo=0;user-id=440674731;user-type=mod :quinndt!quinndt@quinndt.tmi.twitch.tv PRIVMSG #michaelreeves :!cookie moon3g
+Prefix: quinndt!quinndt@quinndt.tmi.twitch.tv
+Command: PRIVMSG
+Args: ['#michaelreeves', '!cookie moon3g']
+Tags: {'badge-info': 'subscriber/5', 'badges': 'moderator/1,subscriber/3,bits/1', 'color': '#B1FCDF', 'display-name': 'QuinnDT', 'emotes': True, 'flags': True, 'id': 'f9f04116-c3a6-4f9c-855d-baa8823cdeb0', 'mod': '1', 'room-id': '469790580', 'subscriber': '1', 'tmi-sent-ts': '1606637797617', 'turbo': '0', 'user-id': '440674731', 'user-type': 'mod'}
+[2020-11-29 02:16:36,232] [root] [DEBUG] - before: @badge-info=;badges=glhf-pledge/1;color=#5F9EA0;display-name=ThePositiveBot;emotes=;flags=;id=c395db25-22a6-4d40-84b2-c81a45bdaa25;mod=0;room-id=469790580;subscriber=0;tmi-sent-ts=1606637797813;turbo=0;user-id=425363834;user-type= :thepositivebot!thepositivebot@thepositivebot.tmi.twitch.tv PRIVMSG #michaelreeves :ACTION [Cookies] [GrandMasters] quinndt -> Spiked cookie! (-2) monkaS | 527 total! | 2 hour cooldown... 🍪
+[2020-11-29 02:16:36,233] [root] [DEBUG] - after : :thepositivebot!thepositivebot@thepositivebot.tmi.twitch.tv PRIVMSG #michaelreeves :ACTION [Cookies] [GrandMasters] quinndt -> Spiked cookie! (-2) monkaS | 527 total! | 2 hour cooldown... 🍪
+[2020-11-29 02:16:36,234] [root] [INFO] - Raw: @badge-info=;badges=glhf-pledge/1;color=#5F9EA0;display-name=ThePositiveBot;emotes=;flags=;id=c395db25-22a6-4d40-84b2-c81a45bdaa25;mod=0;room-id=469790580;subscriber=0;tmi-sent-ts=1606637797813;turbo=0;user-id=425363834;user-type= :thepositivebot!thepositivebot@thepositivebot.tmi.twitch.tv PRIVMSG #michaelreeves :ACTION [Cookies] [GrandMasters] quinndt -> Spiked cookie! (-2) monkaS | 527 total! | 2 hour cooldown... 🍪
+Prefix: thepositivebot!thepositivebot@thepositivebot.tmi.twitch.tv
+Command: PRIVMSG
+Args: ['#michaelreeves', '\x01ACTION [Cookies] [GrandMasters] quinndt -> Spiked cookie! (-2) monkaS | 527 total! | 2 hour cooldown... 🍪\x01']
+Tags: {'badge-info': True, 'badges': 'glhf-pledge/1', 'color': '#5F9EA0', 'display-name': 'ThePositiveBot', 'emotes': True, 'flags': True, 'id': 'c395db25-22a6-4d40-84b2-c81a45bdaa25', 'mod': '0', 'room-id': '469790580', 'subscriber': '0', 'tmi-sent-ts': '1606637797813', 'turbo': '0', 'user-id': '425363834', 'user-type': True}
+[2020-11-29 02:16:38,790] [root] [DEBUG] - before: @badge-info=subscriber/5;badges=moderator/1,subscriber/3,bits/1;color=#B1FCDF;display-name=QuinnDT;emote-only=1;emotes=1394894:0-5;flags=;id=6bc8a032-3206-4f30-aa91-7bffe61d48a0;mod=1;room-id=469790580;subscriber=1;tmi-sent-ts=1606637800429;turbo=0;user-id=440674731;user-type=mod :quinndt!quinndt@quinndt.tmi.twitch.tv PRIVMSG #michaelreeves :moon2G
+[2020-11-29 02:16:38,791] [root] [DEBUG] - after : :quinndt!quinndt@quinndt.tmi.twitch.tv PRIVMSG #michaelreeves :moon2G
+[2020-11-29 02:16:38,793] [root] [INFO] - Raw: @badge-info=subscriber/5;badges=moderator/1,subscriber/3,bits/1;color=#B1FCDF;display-name=QuinnDT;emote-only=1;emotes=1394894:0-5;flags=;id=6bc8a032-3206-4f30-aa91-7bffe61d48a0;mod=1;room-id=469790580;subscriber=1;tmi-sent-ts=1606637800429;turbo=0;user-id=440674731;user-type=mod :quinndt!quinndt@quinndt.tmi.twitch.tv PRIVMSG #michaelreeves :moon2G
+Prefix: quinndt!quinndt@quinndt.tmi.twitch.tv
+Command: PRIVMSG
+Args: ['#michaelreeves', 'moon2G']
+Tags: {'badge-info': 'subscriber/5', 'badges': 'moderator/1,subscriber/3,bits/1', 'color': '#B1FCDF', 'display-name': 'QuinnDT', 'emote-only': '1', 'emotes': '1394894:0-5', 'flags': True, 'id': '6bc8a032-3206-4f30-aa91-7bffe61d48a0', 'mod': '1', 'room-id': '469790580', 'subscriber': '1', 'tmi-sent-ts': '1606637800429', 'turbo': '0', 'user-id': '440674731', 'user-type': 'mod'}
+[2020-11-29 02:16:48,933] [root] [DEBUG] - before: @badge-info=subscriber/5;badges=moderator/1,subscriber/3,bits/1;color=#B1FCDF;display-name=QuinnDT;emotes=;flags=0-3:A.0/P.6;id=8fc46188-a233-46b7-a44f-7bb4c7f01fcb;mod=1;room-id=469790580;subscriber=1;tmi-sent-ts=1606637810574;turbo=0;user-id=440674731;user-type=mod :quinndt!quinndt@quinndt.tmi.twitch.tv PRIVMSG #michaelreeves :fuck
+[2020-11-29 02:16:48,934] [root] [DEBUG] - after : :quinndt!quinndt@quinndt.tmi.twitch.tv PRIVMSG #michaelreeves :fuck
+[2020-11-29 02:16:48,935] [root] [INFO] - Raw: @badge-info=subscriber/5;badges=moderator/1,subscriber/3,bits/1;color=#B1FCDF;display-name=QuinnDT;emotes=;flags=0-3:A.0/P.6;id=8fc46188-a233-46b7-a44f-7bb4c7f01fcb;mod=1;room-id=469790580;subscriber=1;tmi-sent-ts=1606637810574;turbo=0;user-id=440674731;user-type=mod :quinndt!quinndt@quinndt.tmi.twitch.tv PRIVMSG #michaelreeves :fuck
+Prefix: quinndt!quinndt@quinndt.tmi.twitch.tv
+Command: PRIVMSG
+Args: ['#michaelreeves', 'fuck']
+Tags: {'badge-info': 'subscriber/5', 'badges': 'moderator/1,subscriber/3,bits/1', 'color': '#B1FCDF', 'display-name': 'QuinnDT', 'emotes': True, 'flags': '0-3:A.0/P.6', 'id': '8fc46188-a233-46b7-a44f-7bb4c7f01fcb', 'mod': '1', 'room-id': '469790580', 'subscriber': '1', 'tmi-sent-ts': '1606637810574', 'turbo': '0', 'user-id': '440674731', 'user-type': 'mod'}
+[2020-11-29 02:18:18,465] [root] [DEBUG] - before: @badge-info=;badges=glhf-pledge/1;color=#8A2BE2;display-name=thoren_18;emotes=;flags=;id=c4b34079-9cb3-45ae-995f-7f63a8f8c6cc;mod=0;room-id=469790580;subscriber=0;tmi-sent-ts=1606637900082;turbo=0;user-id=415182610;user-type= :thoren_18!thoren_18@thoren_18.tmi.twitch.tv PRIVMSG #michaelreeves :monkaW TeaTime
+[2020-11-29 02:18:18,466] [root] [DEBUG] - after : :thoren_18!thoren_18@thoren_18.tmi.twitch.tv PRIVMSG #michaelreeves :monkaW TeaTime
+[2020-11-29 02:18:18,467] [root] [INFO] - Raw: @badge-info=;badges=glhf-pledge/1;color=#8A2BE2;display-name=thoren_18;emotes=;flags=;id=c4b34079-9cb3-45ae-995f-7f63a8f8c6cc;mod=0;room-id=469790580;subscriber=0;tmi-sent-ts=1606637900082;turbo=0;user-id=415182610;user-type= :thoren_18!thoren_18@thoren_18.tmi.twitch.tv PRIVMSG #michaelreeves :monkaW TeaTime
+Prefix: thoren_18!thoren_18@thoren_18.tmi.twitch.tv
+Command: PRIVMSG
+Args: ['#michaelreeves', 'monkaW TeaTime']
+Tags: {'badge-info': True, 'badges': 'glhf-pledge/1', 'color': '#8A2BE2', 'display-name': 'thoren_18', 'emotes': True, 'flags': True, 'id': 'c4b34079-9cb3-45ae-995f-7f63a8f8c6cc', 'mod': '0', 'room-id': '469790580', 'subscriber': '0', 'tmi-sent-ts': '1606637900082', 'turbo': '0', 'user-id': '415182610', 'user-type': True}
+[2020-11-29 02:18:46,713] [root] [DEBUG] - before: @badge-info=;badges=;client-nonce=bdfd7acc8fac2cfeb4e9005010351500;color=#FF0000;display-name=TLynxT;emotes=;flags=;id=773ae73f-fc42-4c58-bf86-1e393d8357ab;mod=0;room-id=469790580;subscriber=0;tmi-sent-ts=1606637928348;turbo=0;user-id=49238041;user-type= :tlynxt!tlynxt@tlynxt.tmi.twitch.tv PRIVMSG #michaelreeves :!commands
+[2020-11-29 02:18:46,714] [root] [DEBUG] - after : :tlynxt!tlynxt@tlynxt.tmi.twitch.tv PRIVMSG #michaelreeves :!commands
+[2020-11-29 02:18:46,715] [root] [INFO] - Raw: @badge-info=;badges=;client-nonce=bdfd7acc8fac2cfeb4e9005010351500;color=#FF0000;display-name=TLynxT;emotes=;flags=;id=773ae73f-fc42-4c58-bf86-1e393d8357ab;mod=0;room-id=469790580;subscriber=0;tmi-sent-ts=1606637928348;turbo=0;user-id=49238041;user-type= :tlynxt!tlynxt@tlynxt.tmi.twitch.tv PRIVMSG #michaelreeves :!commands
+Prefix: tlynxt!tlynxt@tlynxt.tmi.twitch.tv
+Command: PRIVMSG
+Args: ['#michaelreeves', '!commands']
+Tags: {'badge-info': True, 'badges': True, 'client-nonce': 'bdfd7acc8fac2cfeb4e9005010351500', 'color': '#FF0000', 'display-name': 'TLynxT', 'emotes': True, 'flags': True, 'id': '773ae73f-fc42-4c58-bf86-1e393d8357ab', 'mod': '0', 'room-id': '469790580', 'subscriber': '0', 'tmi-sent-ts': '1606637928348', 'turbo': '0', 'user-id': '49238041', 'user-type': True}
+[2020-11-29 02:18:46,902] [root] [DEBUG] - before: @badge-info=;badges=moderator/1,partner/1;color=#1976D2;display-name=Fossabot;emotes=;flags=57-99:;id=17c8f042-fd8a-48bb-90d2-87b580e6b86d;mod=1;room-id=469790580;subscriber=0;tmi-sent-ts=1606637928428;turbo=0;user-id=237719657;user-type=mod :fossabot!fossabot@fossabot.tmi.twitch.tv PRIVMSG #michaelreeves :@TLynxT, The commands for this channel are available at: https://fossabot.com/commands/michaelreeves
+[2020-11-29 02:18:46,903] [root] [DEBUG] - after : :fossabot!fossabot@fossabot.tmi.twitch.tv PRIVMSG #michaelreeves :@TLynxT, The commands for this channel are available at: https://fossabot.com/commands/michaelreeves
+[2020-11-29 02:18:46,904] [root] [INFO] - Raw: @badge-info=;badges=moderator/1,partner/1;color=#1976D2;display-name=Fossabot;emotes=;flags=57-99:;id=17c8f042-fd8a-48bb-90d2-87b580e6b86d;mod=1;room-id=469790580;subscriber=0;tmi-sent-ts=1606637928428;turbo=0;user-id=237719657;user-type=mod :fossabot!fossabot@fossabot.tmi.twitch.tv PRIVMSG #michaelreeves :@TLynxT, The commands for this channel are available at: https://fossabot.com/commands/michaelreeves
+Prefix: fossabot!fossabot@fossabot.tmi.twitch.tv
+Command: PRIVMSG
+Args: ['#michaelreeves', '@TLynxT, The commands for this channel are available at: https://fossabot.com/commands/michaelreeves']
+Tags: {'badge-info': True, 'badges': 'moderator/1,partner/1', 'color': '#1976D2', 'display-name': 'Fossabot', 'emotes': True, 'flags': '57-99:', 'id': '17c8f042-fd8a-48bb-90d2-87b580e6b86d', 'mod': '1', 'room-id': '469790580', 'subscriber': '0', 'tmi-sent-ts': '1606637928428', 'turbo': '0', 'user-id': '237719657', 'user-type': 'mod'}
+[2020-11-29 02:18:47,007] [root] [DEBUG] - before: @badge-info=;badges=glhf-pledge/1;color=#5F9EA0;display-name=ThePositiveBot;emotes=;flags=;id=aed596fe-d185-41b3-bad3-cb703be77e42;mod=0;room-id=469790580;subscriber=0;tmi-sent-ts=1606637928630;turbo=0;user-id=425363834;user-type= :thepositivebot!thepositivebot@thepositivebot.tmi.twitch.tv PRIVMSG #michaelreeves :ACTION [System] tlynxt, check your whispers for a list of commands!
+[2020-11-29 02:18:47,008] [root] [DEBUG] - after : :thepositivebot!thepositivebot@thepositivebot.tmi.twitch.tv PRIVMSG #michaelreeves :ACTION [System] tlynxt, check your whispers for a list of commands!
+[2020-11-29 02:18:47,009] [root] [INFO] - Raw: @badge-info=;badges=glhf-pledge/1;color=#5F9EA0;display-name=ThePositiveBot;emotes=;flags=;id=aed596fe-d185-41b3-bad3-cb703be77e42;mod=0;room-id=469790580;subscriber=0;tmi-sent-ts=1606637928630;turbo=0;user-id=425363834;user-type= :thepositivebot!thepositivebot@thepositivebot.tmi.twitch.tv PRIVMSG #michaelreeves :ACTION [System] tlynxt, check your whispers for a list of commands!
+Prefix: thepositivebot!thepositivebot@thepositivebot.tmi.twitch.tv
+Command: PRIVMSG
+Args: ['#michaelreeves', '\x01ACTION [System] tlynxt, check your whispers for a list of commands!\x01']
+Tags: {'badge-info': True, 'badges': 'glhf-pledge/1', 'color': '#5F9EA0', 'display-name': 'ThePositiveBot', 'emotes': True, 'flags': True, 'id': 'aed596fe-d185-41b3-bad3-cb703be77e42', 'mod': '0', 'room-id': '469790580', 'subscriber': '0', 'tmi-sent-ts': '1606637928630', 'turbo': '0', 'user-id': '425363834', 'user-type': True}
+[2020-11-29 02:19:53,781] [root] [INFO] - Raw: PING :tmi.twitch.tv
+Prefix: 
+Command: PING
+Args: ['tmi.twitch.tv']
+Tags: {}
+[2020-11-29 02:20:20,306] [root] [DEBUG] - before: @badge-info=;badges=;client-nonce=5e5a56b3ae37a442f8bdfd8b5b045aa8;color=#FF0000;display-name=TLynxT;emotes=;flags=;id=59899568-5184-4cfb-b9b5-0b01d0fea9d9;mod=0;room-id=469790580;subscriber=0;tmi-sent-ts=1606638021926;turbo=0;user-id=49238041;user-type= :tlynxt!tlynxt@tlynxt.tmi.twitch.tv PRIVMSG #michaelreeves :!pc
+[2020-11-29 02:20:20,307] [root] [DEBUG] - after : :tlynxt!tlynxt@tlynxt.tmi.twitch.tv PRIVMSG #michaelreeves :!pc
+[2020-11-29 02:20:20,307] [root] [INFO] - Raw: @badge-info=;badges=;client-nonce=5e5a56b3ae37a442f8bdfd8b5b045aa8;color=#FF0000;display-name=TLynxT;emotes=;flags=;id=59899568-5184-4cfb-b9b5-0b01d0fea9d9;mod=0;room-id=469790580;subscriber=0;tmi-sent-ts=1606638021926;turbo=0;user-id=49238041;user-type= :tlynxt!tlynxt@tlynxt.tmi.twitch.tv PRIVMSG #michaelreeves :!pc
+Prefix: tlynxt!tlynxt@tlynxt.tmi.twitch.tv
+Command: PRIVMSG
+Args: ['#michaelreeves', '!pc']
+Tags: {'badge-info': True, 'badges': True, 'client-nonce': '5e5a56b3ae37a442f8bdfd8b5b045aa8', 'color': '#FF0000', 'display-name': 'TLynxT', 'emotes': True, 'flags': True, 'id': '59899568-5184-4cfb-b9b5-0b01d0fea9d9', 'mod': '0', 'room-id': '469790580', 'subscriber': '0', 'tmi-sent-ts': '1606638021926', 'turbo': '0', 'user-id': '49238041', 'user-type': True}
+[2020-11-29 02:20:20,425] [root] [DEBUG] - before: @badge-info=;badges=moderator/1,partner/1;color=#1976D2;display-name=Fossabot;emotes=;flags=;id=1ef3cd4f-a027-4324-8931-d22311ac99a1;mod=1;room-id=469790580;subscriber=0;tmi-sent-ts=1606638022027;turbo=0;user-id=237719657;user-type=mod :fossabot!fossabot@fossabot.tmi.twitch.tv PRIVMSG #michaelreeves :@TLynxT, Pepege we have no idea what computer specs he's using
+[2020-11-29 02:20:20,426] [root] [DEBUG] - after : :fossabot!fossabot@fossabot.tmi.twitch.tv PRIVMSG #michaelreeves :@TLynxT, Pepege we have no idea what computer specs he's using
+[2020-11-29 02:20:20,427] [root] [INFO] - Raw: @badge-info=;badges=moderator/1,partner/1;color=#1976D2;display-name=Fossabot;emotes=;flags=;id=1ef3cd4f-a027-4324-8931-d22311ac99a1;mod=1;room-id=469790580;subscriber=0;tmi-sent-ts=1606638022027;turbo=0;user-id=237719657;user-type=mod :fossabot!fossabot@fossabot.tmi.twitch.tv PRIVMSG #michaelreeves :@TLynxT, Pepege we have no idea what computer specs he's using
+Prefix: fossabot!fossabot@fossabot.tmi.twitch.tv
+Command: PRIVMSG
+Args: ['#michaelreeves', "@TLynxT, Pepege we have no idea what computer specs he's using"]
+Tags: {'badge-info': True, 'badges': 'moderator/1,partner/1', 'color': '#1976D2', 'display-name': 'Fossabot', 'emotes': True, 'flags': True, 'id': '1ef3cd4f-a027-4324-8931-d22311ac99a1', 'mod': '1', 'room-id': '469790580', 'subscriber': '0', 'tmi-sent-ts': '1606638022027', 'turbo': '0', 'user-id': '237719657', 'user-type': 'mod'}
