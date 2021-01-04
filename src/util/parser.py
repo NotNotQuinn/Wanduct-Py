@@ -8,7 +8,7 @@ class IRCBadMessage(BaseException):
 def parsemsg(s) -> (str, str, list):
     """Breaks a message from an IRC server into its prefix, command, and arguments.
 
-    Returns: prefix, command, args
+    Returns: prefix, command, args, tags
     """
     tags_out = {}
     prefix = ''
